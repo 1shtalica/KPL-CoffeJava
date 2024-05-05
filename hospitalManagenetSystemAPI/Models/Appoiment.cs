@@ -21,11 +21,11 @@ namespace hospitalManagenetSystemAPI.Models
         public int Sapacity { get; set; }
 
 
-        public int RoomId { get; set; }
+       
         public Room Room { get; set; }
         public ICollection<Patient>? Patients { get; set; }
 
-        public int DoctorId {  get; set; }  
+   
         public Doctor Doctor { get; set; }
 
 

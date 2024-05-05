@@ -1,21 +1,12 @@
-﻿namespace hospitalManagenetSystemAPI.Models
+﻿using hospitalManagementSystemAPI.Models;
+using System.Runtime.Serialization;
+using System.Text.Json.Serialization;
+
+namespace hospitalManagenetSystemAPI.Models
 {
     public class Patient
     {
-        public enum GenderType
-        {
-            Male,
-            Female,
-
-        }
-
-        public enum BloodType
-        {
-            A,
-            B,
-            AB,
-            O
-        }
+       
         //pk
         public int PatientId { get; set; }  
         public string FirstName { get; set;}
@@ -25,9 +16,17 @@
         public string Email { get; set;}
         public string Password { get; set; }
         public DateOnly BirthDate { get; set;}
-        public GenderType Gender { get; set; }
-        public BloodType Blood { get; }
+
+
+      
+        public Gender Gender { get; set; }
+
+       
+        public BloodType BloodType { get; set; }
+       
+    
         public ICollection<Appoiment>? Appoiments { get; set; }
+       
         public ICollection<MedicalCheckUp>? medicalCheckUps { get; set; }   
     }
 }

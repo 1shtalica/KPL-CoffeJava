@@ -1,4 +1,5 @@
-﻿using hospitalManagenetSystemAPI.Models;
+﻿using hospitalManagementSystemAPI.Models;
+using hospitalManagenetSystemAPI.Models;
 using Microsoft.EntityFrameworkCore;
 namespace hospitalManagenetSystemAPI.Data
 {
@@ -14,6 +15,11 @@ namespace hospitalManagenetSystemAPI.Data
         public DbSet<MedicalCheckUp> medicalCheckUps { get; set; }
         public DbSet<Patient> patients { get; set; }
         public DbSet<Room> rooms { get; set; }
+
+        public DbSet<Gender> genders { get; set; }
+        public DbSet<BloodType> bloodTypes { get; set; }
+        public DbSet<Specialization> specializations { get; set; }
+
 
 
 
@@ -39,28 +45,7 @@ namespace hospitalManagenetSystemAPI.Data
                         j.HasKey(ap => new { ap.AppoimentId, ap.PatientId });
                     });
 
-            modelBuilder.Entity<Doctor>()
-               .HasMany(d => d.Appoiments) // Doctor memiliki banyak Appoiments
-               .WithOne(a => a.Doctor) // Appoiment terkait dengan satu Doctor
-               .HasForeignKey(a => a.DoctorId); // Kunci asing di Appoiment yang mengacu pada Doctor
-
-            // Konfigurasi relasi one-to-many antara Doctor dan MedicalCheckUp
-            modelBuilder.Entity<Doctor>()
-                .HasMany(d => d.MedicalCheckUps) // Doctor memiliki banyak MedicalCheckUps
-                .WithOne(m => m.Doctor) // MedicalCheckUp terkait dengan satu Doctor
-                .HasForeignKey(m => m.DoctorId);
-
-
-            modelBuilder.Entity<Appoiment>()
-               .HasOne(a => a.Room) // Appoiment terkait dengan satu Room
-               .WithMany(r => r.Appoiments) // Room memiliki banyak Appoiment
-               .HasForeignKey(a => a.RoomId);
-
-            modelBuilder.Entity<Patient>()
-               .HasMany(p => p.medicalCheckUps) // Patient memiliki banyak MedicalCheckUps
-               .WithOne(m => m.Patient) // MedicalCheckUp terkait dengan satu Patient
-               .HasForeignKey(m => m.PatientId);
-
+           
 
             modelBuilder.Entity<Admin>()
                 .HasIndex(a => a.Email)
@@ -87,6 +72,11 @@ namespace hospitalManagenetSystemAPI.Data
                 .IsUnique();
 
             modelBuilder.Entity<MedicalCheckUp>().HasKey(a => a.MedicalChekUpId);
+
+           
+
+
+           
         }
 
     }

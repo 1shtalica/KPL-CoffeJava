@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using hospitalManagenetSystemAPI.Data;
 
@@ -10,24 +11,16 @@ using hospitalManagenetSystemAPI.Data;
 namespace hospitalManagenetSystemAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505141553_update migration")]
+    partial class updatemigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "7.0.7")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
-
-            modelBuilder.Entity("hospitalManagementSystemAPI.Models.Gender", b =>
-                {
-                    b.Property<string>("Name")
-                        .HasColumnType("varchar(255)");
-
-                    b.HasKey("Name");
-
-                    b.ToTable("genders");
-                });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Admin", b =>
                 {
@@ -115,16 +108,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.HasIndex("PatientId");
 
                     b.ToTable("AppoimentPatients");
-                });
-
-            modelBuilder.Entity("hospitalManagenetSystemAPI.Models.BloodType", b =>
-                {
-                    b.Property<string>("bloodType")
-                        .HasColumnType("varchar(255)");
-
-                    b.HasKey("bloodType");
-
-                    b.ToTable("bloodTypes");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Doctor", b =>
@@ -229,8 +212,8 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<string>("GenderName")
-                        .HasColumnType("varchar(255)");
+                    b.Property<int>("Gender")
+                        .HasColumnType("int");
 
                     b.Property<string>("LastName")
                         .IsRequired()
@@ -244,20 +227,13 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(255)");
 
-                    b.Property<string>("bloodType")
-                        .HasColumnType("varchar(255)");
-
                     b.HasKey("PatientId");
 
                     b.HasIndex("Email")
                         .IsUnique();
 
-                    b.HasIndex("GenderName");
-
                     b.HasIndex("PhoneNumber")
                         .IsUnique();
-
-                    b.HasIndex("bloodType");
 
                     b.ToTable("patients");
                 });
@@ -299,7 +275,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("SpecializationId");
 
-                    b.ToTable("specializations");
+                    b.ToTable("Specialization");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Appoiment", b =>
@@ -368,31 +344,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Navigation("Doctor");
 
                     b.Navigation("Patient");
-                });
-
-            modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Patient", b =>
-                {
-                    b.HasOne("hospitalManagementSystemAPI.Models.Gender", "Gender")
-                        .WithMany("patients")
-                        .HasForeignKey("GenderName");
-
-                    b.HasOne("hospitalManagenetSystemAPI.Models.BloodType", "BloodType")
-                        .WithMany("patients")
-                        .HasForeignKey("bloodType");
-
-                    b.Navigation("BloodType");
-
-                    b.Navigation("Gender");
-                });
-
-            modelBuilder.Entity("hospitalManagementSystemAPI.Models.Gender", b =>
-                {
-                    b.Navigation("patients");
-                });
-
-            modelBuilder.Entity("hospitalManagenetSystemAPI.Models.BloodType", b =>
-                {
-                    b.Navigation("patients");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Doctor", b =>
