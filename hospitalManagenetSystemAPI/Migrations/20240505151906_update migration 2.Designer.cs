@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using hospitalManagenetSystemAPI.Data;
 
@@ -10,9 +11,11 @@ using hospitalManagenetSystemAPI.Data;
 namespace hospitalManagenetSystemAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505151906_update migration 2")]
+    partial class updatemigration2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -26,7 +29,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("Name");
 
-                    b.ToTable("genders");
+                    b.ToTable("Gender");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Admin", b =>
@@ -124,7 +127,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("bloodType");
 
-                    b.ToTable("bloodTypes");
+                    b.ToTable("BloodType");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Doctor", b =>
@@ -221,6 +224,10 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<DateOnly>("BirthDate")
                         .HasColumnType("date");
 
+                    b.Property<string>("BloodTypeName")
+                        .IsRequired()
+                        .HasColumnType("varchar(255)");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
@@ -230,6 +237,7 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("GenderName")
+                        .IsRequired()
                         .HasColumnType("varchar(255)");
 
                     b.Property<string>("LastName")
@@ -244,10 +252,9 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(255)");
 
-                    b.Property<string>("bloodType")
-                        .HasColumnType("varchar(255)");
-
                     b.HasKey("PatientId");
+
+                    b.HasIndex("BloodTypeName");
 
                     b.HasIndex("Email")
                         .IsUnique();
@@ -256,8 +263,6 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasIndex("PhoneNumber")
                         .IsUnique();
-
-                    b.HasIndex("bloodType");
 
                     b.ToTable("patients");
                 });
@@ -299,7 +304,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("SpecializationId");
 
-                    b.ToTable("specializations");
+                    b.ToTable("Specialization");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Appoiment", b =>
@@ -372,27 +377,21 @@ namespace hospitalManagenetSystemAPI.Migrations
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Patient", b =>
                 {
-                    b.HasOne("hospitalManagementSystemAPI.Models.Gender", "Gender")
-                        .WithMany("patients")
-                        .HasForeignKey("GenderName");
-
                     b.HasOne("hospitalManagenetSystemAPI.Models.BloodType", "BloodType")
-                        .WithMany("patients")
-                        .HasForeignKey("bloodType");
+                        .WithMany()
+                        .HasForeignKey("BloodTypeName")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("hospitalManagementSystemAPI.Models.Gender", "Gender")
+                        .WithMany()
+                        .HasForeignKey("GenderName")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("BloodType");
 
                     b.Navigation("Gender");
-                });
-
-            modelBuilder.Entity("hospitalManagementSystemAPI.Models.Gender", b =>
-                {
-                    b.Navigation("patients");
-                });
-
-            modelBuilder.Entity("hospitalManagenetSystemAPI.Models.BloodType", b =>
-                {
-                    b.Navigation("patients");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Doctor", b =>
