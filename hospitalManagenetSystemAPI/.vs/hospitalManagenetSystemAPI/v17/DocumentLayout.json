@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\migrations\\20240502150840_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240502150840_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T17:34:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:33:56.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240502150840_Initial migration.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240502150840_Initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240502150840_Initial migration.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240502150840_Initial migration.cs",
+              "RelativeToolTip": "Migrations\\20240502150840_Initial migration.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:26:34.795Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
