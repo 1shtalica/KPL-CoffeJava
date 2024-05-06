@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using hospitalManagenetSystemAPI.Data;
 
@@ -10,9 +11,11 @@ using hospitalManagenetSystemAPI.Data;
 namespace hospitalManagenetSystemAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505184421_update migration 13")]
+    partial class updatemigration13
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -54,10 +57,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
-
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.HasKey("AdminId");
 
@@ -156,10 +155,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(255)");
 
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
                     b.Property<int>("SpecializationId")
                         .HasColumnType("int");
 
@@ -251,10 +246,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
-
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.Property<string>("bloodType")
                         .HasColumnType("varchar(255)");

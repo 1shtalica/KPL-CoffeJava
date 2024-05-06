@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using hospitalManagenetSystemAPI.Data;
 
@@ -10,9 +11,11 @@ using hospitalManagenetSystemAPI.Data;
 namespace hospitalManagenetSystemAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505174917_update migration 9")]
+    partial class updatemigration9
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -54,10 +57,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
-
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.HasKey("AdminId");
 
@@ -156,10 +155,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(255)");
 
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
                     b.Property<int>("SpecializationId")
                         .HasColumnType("int");
 
@@ -238,6 +233,7 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("GenderName")
+                        .IsRequired()
                         .HasColumnType("varchar(255)");
 
                     b.Property<string>("LastName")
@@ -251,10 +247,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
-
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.Property<string>("bloodType")
                         .HasColumnType("varchar(255)");
@@ -311,7 +303,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("SpecializationId");
 
-                    b.ToTable("specializations");
+                    b.ToTable("Specialization");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Appoiment", b =>
@@ -385,26 +377,18 @@ namespace hospitalManagenetSystemAPI.Migrations
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Patient", b =>
                 {
                     b.HasOne("hospitalManagementSystemAPI.Models.Gender", "Gender")
-                        .WithMany("patients")
-                        .HasForeignKey("GenderName");
+                        .WithMany()
+                        .HasForeignKey("GenderName")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("hospitalManagenetSystemAPI.Models.BloodType", "BloodType")
-                        .WithMany("patients")
+                        .WithMany()
                         .HasForeignKey("bloodType");
 
                     b.Navigation("BloodType");
 
                     b.Navigation("Gender");
-                });
-
-            modelBuilder.Entity("hospitalManagementSystemAPI.Models.Gender", b =>
-                {
-                    b.Navigation("patients");
-                });
-
-            modelBuilder.Entity("hospitalManagenetSystemAPI.Models.BloodType", b =>
-                {
-                    b.Navigation("patients");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Doctor", b =>

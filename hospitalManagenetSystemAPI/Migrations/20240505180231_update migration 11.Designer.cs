@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using hospitalManagenetSystemAPI.Data;
 
@@ -10,9 +11,11 @@ using hospitalManagenetSystemAPI.Data;
 namespace hospitalManagenetSystemAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505180231_update migration 11")]
+    partial class updatemigration11
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -26,7 +29,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("Name");
 
-                    b.ToTable("genders");
+                    b.ToTable("gender");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Admin", b =>
@@ -54,10 +57,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
-
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.HasKey("AdminId");
 
@@ -128,7 +127,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("bloodType");
 
-                    b.ToTable("bloodTypes");
+                    b.ToTable("bloodType");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Doctor", b =>
@@ -155,10 +154,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("varchar(255)");
-
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.Property<int>("SpecializationId")
                         .HasColumnType("int");
@@ -252,10 +247,6 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(255)");
 
-                    b.Property<string>("Salt")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
                     b.Property<string>("bloodType")
                         .HasColumnType("varchar(255)");
 
@@ -311,7 +302,7 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.HasKey("SpecializationId");
 
-                    b.ToTable("specializations");
+                    b.ToTable("Specialization");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Appoiment", b =>

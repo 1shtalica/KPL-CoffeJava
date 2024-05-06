@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NCfKSaoPRHIq4EnV8So/DAzUr0kZxTJJtXyw37I1KhGwUe2dhTJGFNu7rBQyck0YGvDTe39mRqj8bjNu9moQUw==",
   "success": true,
   "projectFilePath": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+=======
+  "dgSpecHash": "7GLHr9byTpGWn66066t5S36MONR6tIjnf0tlXj5R0fRi453/JmCihVKplRHxkC80ZScjmz85g3bYzP4LBdLtRQ==",
+  "success": true,
+  "projectFilePath": "D:\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+>>>>>>> 4808ecfac31c90d48b3f6b5b06b6fb49b95a1154
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",

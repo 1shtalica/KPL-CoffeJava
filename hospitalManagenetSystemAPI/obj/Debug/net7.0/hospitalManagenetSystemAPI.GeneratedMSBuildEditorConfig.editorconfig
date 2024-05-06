@@ -9,6 +9,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hospitalManagenetSystemAPI
 build_property.RootNamespace = hospitalManagenetSystemAPI
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
@@ -16,4 +17,11 @@ build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI
+=======
+build_property.ProjectDir = D:\KPL-CoffeJava\hospitalManagenetSystemAPI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\KPL-CoffeJava\hospitalManagenetSystemAPI
+>>>>>>> 4808ecfac31c90d48b3f6b5b06b6fb49b95a1154
 build_property._RazorSourceGeneratorDebug = 
