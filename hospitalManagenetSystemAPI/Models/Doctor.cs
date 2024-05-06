@@ -65,7 +65,7 @@
         public string Email { get; set; }
         public string Password { get; set; }
 
-   
+        public string Salt { get; set; }
         public Specialization Specialization { get; set; }
 
         public ICollection<Appoiment>? Appoiments { get; set; }
