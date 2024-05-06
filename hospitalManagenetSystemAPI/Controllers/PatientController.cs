@@ -127,8 +127,8 @@ namespace hospitalManagementSystemAPI.Controllers
                     p.PhoneNumber,
                     p.Email,
                     BirthDate = p.BirthDate.ToString("yyyy-MM-dd"),
-                    GenderName = p.Gender.Name, // Mengambil nama gender
-                    BloodType = p.BloodType.bloodType // Mengambil tipe darah
+                    GenderName = p.Gender.Name,
+                    BloodType = p.BloodType.bloodType
                 })
                 .FirstOrDefault();
 
@@ -140,6 +140,117 @@ namespace hospitalManagementSystemAPI.Controllers
 
             // Mengembalikan informasi pasien dalam respon OK
             return Ok(patient);
+        }
+
+        // Metode PUT untuk memperbarui data pasien berdasarkan PatientId
+        [HttpPut("{id}")]
+        public IActionResult UpdatePatient(int id, [FromBody] PatientUpdateDto patientUpdateDto, [FromQuery] string? gender = null, [FromQuery] string? bloodtype = null)
+        {
+            // Cari pasien yang ada berdasarkan PatientId
+            var existingPatient = _context.patients.FirstOrDefault(p => p.PatientId == id);
+            if (existingPatient == null)
+            {
+                return NotFound($"Patient with ID {id} not found.");
+            }
+
+            // Jika parameter gender dan blood type diberikan, periksa kevalidannya
+            if (!string.IsNullOrEmpty(gender))
+            {
+                var genderEntity = _context.genders.FirstOrDefault(g => g.Name == gender);
+                if (genderEntity == null)
+                {
+                    return BadRequest("Invalid gender name.");
+                }
+                existingPatient.Gender = genderEntity;
+            }
+
+            if (!string.IsNullOrEmpty(bloodtype))
+            {
+                var bloodTypeEntity = _context.bloodTypes.FirstOrDefault(bt => bt.bloodType == bloodtype);
+                if (bloodTypeEntity == null)
+                {
+                    return BadRequest("Invalid blood type name.");
+                }
+                existingPatient.BloodType = bloodTypeEntity;
+            }
+
+            // Perbarui data pasien berdasarkan data yang diberikan dalam PatientUpdateDto
+            if (!string.IsNullOrEmpty(patientUpdateDto.FirstName))
+            {
+                existingPatient.FirstName = patientUpdateDto.FirstName;
+            }
+            if (!string.IsNullOrEmpty(patientUpdateDto.LastName))
+            {
+                existingPatient.LastName = patientUpdateDto.LastName;
+            }
+            if (!string.IsNullOrEmpty(patientUpdateDto.Address))
+            {
+                existingPatient.Address = patientUpdateDto.Address;
+            }
+            if (!string.IsNullOrEmpty(patientUpdateDto.PhoneNumber))
+            {
+                // Validasi nomor telepon untuk memastikan tidak ada duplikasi nomor
+                var phoneExists = _context.patients.Any(p => p.PhoneNumber == patientUpdateDto.PhoneNumber && p.PatientId != id);
+                if (phoneExists)
+                {
+                    return BadRequest("Phone number already exists.");
+                }
+                existingPatient.PhoneNumber = patientUpdateDto.PhoneNumber;
+            }
+            if (!string.IsNullOrEmpty(patientUpdateDto.Email))
+            {
+                // Validasi email untuk memastikan tidak ada duplikasi email
+                var emailExists = _context.patients.Any(p => p.Email == patientUpdateDto.Email && p.PatientId != id);
+                if (emailExists)
+                {
+                    return BadRequest("Email already exists.");
+                }
+                existingPatient.Email = patientUpdateDto.Email;
+            }
+
+            // Perbarui tanggal lahir jika diberikan
+            if (patientUpdateDto.BirthDate.HasValue)
+            {
+                var birthDate = patientUpdateDto.BirthDate.Value;
+                existingPatient.BirthDate = new DateOnly(birthDate.Year, birthDate.Month, birthDate.Day);
+            }
+
+            // Tidak memperbarui kata sandi jika `PatientUpdateDto` tidak mengizinkan perubahan kata sandi
+            // Anda bisa menambahkan logika untuk memperbarui kata sandi di sini jika diperlukan
+
+            // Simpan perubahan ke database
+            _context.SaveChanges();
+
+            // Mengembalikan respon No Content jika update berhasil
+            var response = new
+            {
+                message = "Patient updated successfully."
+            };
+
+            return Ok(response);
+        }
+
+        // Metode DELETE untuk menghapus pasien berdasarkan PatientId
+        [HttpDelete("{id}")]
+        public IActionResult DeletePatient(int id)
+        {
+            // Cari pasien yang ada berdasarkan PatientId
+            var existingPatient = _context.patients.FirstOrDefault(p => p.PatientId == id);
+            if (existingPatient == null)
+            {
+                return NotFound($"Patient with ID {id} not found.");
+            }
+
+            // Hapus pasien dari database
+            _context.patients.Remove(existingPatient);
+            _context.SaveChanges();
+
+            var response = new
+            {
+                message = "Patient deleted successfully."
+            };
+
+            return Ok(response);
         }
 
         // Fungsi untuk menghasilkan garam (salt)
@@ -158,7 +269,7 @@ namespace hospitalManagementSystemAPI.Controllers
         {
             using (var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000))
             {
-                byte[] hash = pbkdf2.GetBytes(20); // Mendapatkan 20-byte hash
+                byte[] hash = pbkdf2.GetBytes(20);
                 return Convert.ToBase64String(hash);
             }
         }
