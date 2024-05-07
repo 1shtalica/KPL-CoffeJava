@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\medicalcheckupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\medicalcheckupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\appoimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\appoimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\dto\\medicalcheckupedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:dto\\medicalcheckupedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\dto\\appoinmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:dto\\appoinmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\models\\appoimentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:models\\appoimentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\program\\c#\\kpl-coffejava\\hospitalmanagenetsystemapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalCheckUpEdit.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\MedicalCheckUpEdit.cs",
+              "RelativeDocumentMoniker": "DTO\\MedicalCheckUpEdit.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\MedicalCheckUpEdit.cs",
+              "RelativeToolTip": "DTO\\MedicalCheckUpEdit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:12:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppoimentController.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppoimentController.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentController.cs",
+              "RelativeToolTip": "Controllers\\AppoimentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:50:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppoinmentRequest.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\AppoinmentRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\AppoinmentRequest.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\AppoinmentRequest.cs",
+              "RelativeToolTip": "DTO\\AppoinmentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:58:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:54:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:54:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalCheckUpController.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\MedicalCheckUpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicalCheckUpController.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\MedicalCheckUpController.cs",
+              "RelativeToolTip": "Controllers\\MedicalCheckUpController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwFEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:52:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppoimentPatient.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\AppoimentPatient.cs",
+              "RelativeDocumentMoniker": "Models\\AppoimentPatient.cs",
+              "ToolTip": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\AppoimentPatient.cs",
+              "RelativeToolTip": "Models\\AppoimentPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:51:04.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
