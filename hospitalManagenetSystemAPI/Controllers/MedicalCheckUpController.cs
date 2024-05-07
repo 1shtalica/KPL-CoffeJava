@@ -72,9 +72,9 @@ namespace hospitalManagenetSystemAPI.Controllers
 
         // PUT: api/MedicalCheckUp/5
         [HttpPut("{id}")]
-        public IActionResult PutMedicalCheckUp(int id, MedicalCheckUp medicalCheckUp)
+        public IActionResult PutMedicalCheckUp(int id, MedicalCheckUpEdit medicalCheckUp, MedicalCheckUp medical)
         {
-            if (id != medicalCheckUp.MedicalChekUpId)
+            if (id != medical.MedicalChekUpId)
             {
                 return BadRequest();
             }
