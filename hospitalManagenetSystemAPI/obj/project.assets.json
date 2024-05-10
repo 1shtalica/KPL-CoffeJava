@@ -1482,37 +1482,24 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\adria\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
->>>>>>> 2d9066b518458a24ba7fe7ed0188e0201a74f880
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
       "projectName": "hospitalManagenetSystemAPI",
       "projectPath": "D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
       "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
       "outputPath": "D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\",
-=======
-      "projectUniqueName": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
-      "projectName": "hospitalManagenetSystemAPI",
-      "projectPath": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\",
->>>>>>> 2d9066b518458a24ba7fe7ed0188e0201a74f880
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 2d9066b518458a24ba7fe7ed0188e0201a74f880
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1532,11 +1519,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1577,24 +1559,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1603,20 +1567,8 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
->>>>>>> 2d9066b518458a24ba7fe7ed0188e0201a74f880
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Program\\c#\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

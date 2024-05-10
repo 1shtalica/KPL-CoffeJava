@@ -39,7 +39,7 @@ namespace hospitalManagenetSystemAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddAppoiment(AppoinmentRequest appoinmentRequest)
+        public IActionResult AddAppoiment([FromBody] AppoinmentRequest appoinmentRequest, [FromQuery] int doctorId, [FromQuery] int roomId)
         {
             if(appoinmentRequest == null)
             {
@@ -48,17 +48,28 @@ namespace hospitalManagenetSystemAPI.Controllers
 
             try
             {
+                var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorId);
+
+                if(doctor == null)
+                {
+                    return NotFound();
+                }
+
+                var room = _context.rooms.FirstOrDefault(r => r.RoomId == roomId);
+                if(room == null)
+                {
+                    return NotFound();
+                }
                 Appoiment data = new Appoiment()
                 {
                     TimeStart = appoinmentRequest.TimeStart,
                     TimeEnd = appoinmentRequest.TimeEnd,
                     Status = appoinmentRequest.Status,
-                    IsCompleted = appoinmentRequest.IsCompleted,
+                    IsCompleted = appoinmentRequest.IsComplete,
                     Sapacity = appoinmentRequest.Sapacity,
 
-                    Room = appoinmentRequest.Room,
-                    Patients = appoinmentRequest.Patients,
-                    Doctor = appoinmentRequest.Doctor,
+                    Room = room,
+                    Doctor = doctor,
                 };
                 _context.Appoiments.Add(data);
                 _context.SaveChanges();
@@ -70,7 +81,7 @@ namespace hospitalManagenetSystemAPI.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult EditAppointment(int id, AppoinmentEdit appointmentEdit)
+        public IActionResult EditAppointment(int id, [FromBody] AppoinmentEdit appointmentEdit, [FromQuery] int doctorID, [FromQuery] int roomID)
         {
             var appointment = _context.Appoiments.Find(id);
 
@@ -78,15 +89,28 @@ namespace hospitalManagenetSystemAPI.Controllers
             {
                 return NotFound();
             }
+            
+            var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorID);
+            if (doctor == null)
+            {
+                return NotFound();
+            }
+
+            var room = _context.rooms.FirstOrDefault(r => r.RoomId ==  roomID);
+            if(room == null)
+            {
+                return NotFound();
+            }
+
+            
 
             appointment.TimeStart = appointmentEdit.TimeStart;
             appointment.TimeEnd = appointmentEdit.TimeEnd;
             appointment.Status = appointmentEdit.Status;
             appointment.IsCompleted = appointmentEdit.IsCompleted;
             appointment.Sapacity = appointmentEdit.Sapacity;
-            appointment.Room = appointmentEdit.Room;
-            appointment.Patients = appointmentEdit.Patients;
-            appointment.Doctor = appointmentEdit.Doctor;
+            appointment.Room = room;
+            appointment.Doctor = doctor;
 
             _context.Entry(appointment).State = EntityState.Modified;
             _context.SaveChanges();

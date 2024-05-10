@@ -22,7 +22,7 @@ namespace hospitalManagenetSystemAPI.Controllers
         [HttpGet]
         public IActionResult GetMedicalCheckUps()
         {
-            return Ok(this._context.medicalCheckUps.ToList());
+            return Ok(_context.medicalCheckUps.ToList());
         }
 
         // GET: api/MedicalCheckUp/5
@@ -36,13 +36,13 @@ namespace hospitalManagenetSystemAPI.Controllers
                 return NotFound();
             } else
             {
-                return (IActionResult)medicalCheckUp;
+                return Ok(medicalCheckUp);
             }
         }
 
         // POST: api/MedicalCheckUp
         [HttpPost]
-        public IActionResult PostMedicalCheckUp(MedicalCheckUpRequest medicalCheckUp)
+        public IActionResult PostMedicalCheckUp([FromBody] MedicalCheckUpRequest medicalCheckUp, [FromQuery] int patientID, [FromQuery] int doctorId)
         {
             if(medicalCheckUp == null)
             {
@@ -50,13 +50,25 @@ namespace hospitalManagenetSystemAPI.Controllers
             }
             try
             {
+                var doctor = _context.doctors.FirstOrDefault(r => r.DoctorId == doctorId);
+                if(doctor == null)
+                {
+                    return NotFound();
+                }
+
+                var patient = _context.patients.FirstOrDefault(p => p.PatientId == patientID);
+                if(patient == null)
+                {
+                    return NotFound();
+                }
+
                 MedicalCheckUp data = new MedicalCheckUp()
                 {
                     date = medicalCheckUp.date,
                     NoteMedicalChekup = medicalCheckUp.NoteMedicalChekup,
                     Result = medicalCheckUp.Result,
-                    Doctor = medicalCheckUp.Doctor,
-                    Patient = medicalCheckUp.Patient,
+                    Doctor = doctor,
+                    Patient = patient
                 };
 
                 _context.medicalCheckUps.Add(data);
@@ -72,12 +84,32 @@ namespace hospitalManagenetSystemAPI.Controllers
 
         // PUT: api/MedicalCheckUp/5
         [HttpPut("{id}")]
-        public IActionResult PutMedicalCheckUp(int id, MedicalCheckUpEdit medicalCheckUp, MedicalCheckUp medical)
+        public IActionResult PutMedicalCheckUp(int id, [FromBody] MedicalCheckUpEdit medicalCheckUp, [FromQuery] int doctorID, [FromQuery] int patientID)
         {
-            if (id != medical.MedicalChekUpId)
+            
+            var data = _context.medicalCheckUps.Find(id);
+            if(data == null)
             {
-                return BadRequest();
+                return NotFound();
             }
+
+            var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorID);
+            if(doctor == null)
+            {
+                return NotFound();
+            }
+
+            var patient = _context.patients.FirstOrDefault(p => p.PatientId == patientID);
+            if(patient == null)
+            {
+                return NotFound();
+            }
+
+            data.date = medicalCheckUp.date;
+            data.Result = medicalCheckUp.Result;
+            data.NoteMedicalChekup = medicalCheckUp.NoteMedicalChekup;
+            data.Doctor = doctor;
+            data.Patient = patient;
 
             _context.Entry(medicalCheckUp).State = EntityState.Modified;
             _context.SaveChanges();
