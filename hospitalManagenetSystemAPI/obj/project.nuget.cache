@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bGqdCJqKbIAoNR7lWXRKVkqLAmuWrw8AWvgtpQQHrpqTDkeBGxsuIRfzwjfnHTJHUE/qbs0iLRveCRmWR/cNhg==",
+  "dgSpecHash": "8O0LpzcTUevu0sNUVm88MFqfnYillibo4ki4F5HT1Oqs/v/juOy2By2r8Vl2SsZzTrXkJRzHZrX57SVETnkrLw==",
   "success": true,
   "projectFilePath": "D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
   "expectedPackageFiles": [
@@ -35,5 +35,12 @@
     "C:\\Users\\adria\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

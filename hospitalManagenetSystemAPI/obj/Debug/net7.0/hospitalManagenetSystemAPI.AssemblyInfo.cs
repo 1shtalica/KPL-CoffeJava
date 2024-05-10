@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hospitalManagenetSystemAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c18d605c22569a63ad8ff98be1eed2c148442fb")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95324aad5061b916c19d5e3ca41338496c08df45")]
+>>>>>>> 5cc1525ed606bf7e0f7c6e812cbefe322257e097
 [assembly: System.Reflection.AssemblyProductAttribute("hospitalManagenetSystemAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hospitalManagenetSystemAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
