@@ -73,10 +73,18 @@ namespace hospitalManagenetSystemAPI.Data
 
             modelBuilder.Entity<MedicalCheckUp>().HasKey(a => a.MedicalChekUpId);
 
-           
+            modelBuilder.Entity<Specialization>()
+                .HasIndex(a => a.Name)
+                .IsUnique();
+
+            modelBuilder.Entity<Room>()
+                .HasIndex(a => a.RoomName)
+                .IsUnique();
 
 
-           
+
+
+
         }
 
     }
