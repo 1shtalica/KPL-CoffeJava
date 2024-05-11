@@ -2,7 +2,7 @@
 {
     public class automata
     {
-        public enum State { LOGIN, REGISTRASI, DASHBOARD, LOGOUT, TEST }; 
+        public enum State { LOGIN, REGISTRASI, DASHBOARD, LOGOUT, TEST };
         public static State posisi, nextPosisi;
 
 
@@ -19,7 +19,8 @@
             return posisi;
         }
 
-        public static void posisiTransition(State nextPos) {
+        public static void posisiTransition(State nextPos)
+        {
 
             // Jika keadaan pada posisi masuk pada login.
             if (posisi == State.LOGIN)
@@ -29,11 +30,12 @@
                     Dashboard dashboard = new Dashboard();
                     dashboard.Show();
                 }
-                else if (nextPos == State.REGISTRASI) 
+                else if (nextPos == State.REGISTRASI)
                 {
                     Registrasi registrasi = new Registrasi();
                     registrasi.Show();
                 }
             }
+        }
     }
 }

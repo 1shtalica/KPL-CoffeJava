@@ -22,14 +22,33 @@ namespace hospitalManagenetSystemAPI.Controllers
         [HttpGet]
         public IActionResult GetMedicalCheckUps()
         {
-            return Ok(_context.medicalCheckUps.ToList());
+            var allMcu = _context.medicalCheckUps
+                                        .Select(m => new
+                                        {
+                                            m.MedicalChekUpId,
+                                            date = m.date.ToString("yyyy-MM-dd"),
+                                            m.NoteMedicalChekup,
+                                            m.Result,
+                                            Doctor = m.Doctor.firstName,
+                                            Patient = m.Patient.FirstName
+                                        })
+                                        .ToList();
+            return Ok(allMcu);
         }
 
         // GET: api/MedicalCheckUp/5
         [HttpGet("{id}")]
         public IActionResult GetMedicalCheckUp(int id)
         {
-            var medicalCheckUp = _context.medicalCheckUps.Find(id);
+            var medicalCheckUp = _context.medicalCheckUps.Where(m => m.MedicalChekUpId == id).Select(m => new
+            {
+                m.MedicalChekUpId,
+                date = m.date.ToString("yyyy-MM-dd"),
+                m.NoteMedicalChekup,
+                m.Result,
+                Doctor = m.Doctor.firstName,
+                Patient = m.Patient.FirstName
+            }).FirstOrDefault();
 
             if (medicalCheckUp == null)
             {
