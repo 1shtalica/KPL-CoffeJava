@@ -9,3 +9,23 @@ D:\New folder (4)\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
 D:\New folder (4)\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
 D:\New folder (4)\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
 D:\New folder (4)\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.Development.json
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.json
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.deps.json
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.dll
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.pdb
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\kpl5\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.CopyComplete
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
+D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll
