@@ -6,7 +6,7 @@ using hospitalManagenetSystemAPI.Data;
 using hospitalManagenetSystemAPI.DTO;
 using System.Security.Cryptography;
 using hospitalManagenetSystemAPI.NewFolder;
-using 
+
 
 namespace hospitalManagenetSystemAPI.Controllers
 {
