@@ -3,8 +3,13 @@
 
     public enum DoctorSpecialization
     {
+<<<<<<< Updated upstream
        
     
+=======
+
+
+>>>>>>> Stashed changes
         // Spesialisasi dalam bidang penyakit dalam
         InternalMedicine,
 
@@ -50,13 +55,17 @@
         // Spesialisasi dalam bidang endokrinologi
         Endocrinology,
 
+<<<<<<< Updated upstream
        
+=======
+
+>>>>>>> Stashed changes
     }
 
     public class Doctor
     {
         public int DoctorId { get; set; }
-        public string firstName { get; set; }   
+        public string firstName { get; set; }
         public string lastName { get; set; }
 
         public string Address { get; set; }

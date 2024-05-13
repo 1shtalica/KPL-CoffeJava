@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "4QBj6xWKYSthp8XOM6DMoUq5GYi/39d2JZQMyO7gbb0fxl+YuS7s/76YmV/naIKmh8JSPGf/W9AK9uZ/BMNNCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\KPL-CoffeJava-rindang_membuatTableDriven_admin\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+=======
+  "dgSpecHash": "Sg41APXWwZcMi/geziH7ylcAAjiBc5h0jnrW1wL+mEiIoEZr7bmcFDeExsFj/2NKEYUgV3DGnSiE9S/oFqC2yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",

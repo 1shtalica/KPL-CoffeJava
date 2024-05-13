@@ -3,7 +3,7 @@ using hospitalManagenetSystemAPI.Models;
 using Microsoft.EntityFrameworkCore;
 namespace hospitalManagenetSystemAPI.Data
 {
-    public class AppDbContext: DbContext
+    public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions options) : base(options) { }
 
@@ -27,7 +27,7 @@ namespace hospitalManagenetSystemAPI.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            
+
             modelBuilder.Entity<Appoiment>()
                 .HasMany(a => a.Patients)
                 .WithMany(p => p.Appoiments)
@@ -45,7 +45,7 @@ namespace hospitalManagenetSystemAPI.Data
                         j.HasKey(ap => new { ap.AppoimentId, ap.PatientId });
                     });
 
-           
+
 
             modelBuilder.Entity<Admin>()
                 .HasIndex(a => a.Email)
@@ -73,7 +73,12 @@ namespace hospitalManagenetSystemAPI.Data
 
             modelBuilder.Entity<MedicalCheckUp>().HasKey(a => a.MedicalChekUpId);
 
+<<<<<<< Updated upstream
            
+=======
+
+
+>>>>>>> Stashed changes
 
 
            

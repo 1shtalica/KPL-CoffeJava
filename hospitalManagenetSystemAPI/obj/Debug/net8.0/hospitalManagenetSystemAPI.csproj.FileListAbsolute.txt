@@ -42,3 +42,49 @@ C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSys
 C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.pdb
 C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
 C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net8.0\ref\hospitalManagenetSystemAPI.dll
+<<<<<<< Updated upstream
+=======
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\hospitalManagenetSystemAPI.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\hospitalManagenetSystemAPI.deps.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\hospitalManagenetSystemAPI.runtimeconfig.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\hospitalManagenetSystemAPI.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\hospitalManagenetSystemAPI.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospital.73BE3890.Up2Date
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\refint\hospitalManagenetSystemAPI.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\hospitalManagenetSystemAPI\obj\Debug\net8.0\ref\hospitalManagenetSystemAPI.dll
+>>>>>>> Stashed changes

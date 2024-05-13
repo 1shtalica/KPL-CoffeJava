@@ -1,12 +1,9 @@
-﻿using System;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using hospitalManagementSystemAPI.Models;
+﻿using hospitalManagementSystemAPI.Models;
 using hospitalManagenetSystemAPI.Data;
 using hospitalManagenetSystemAPI.Models;
 using hospitalManagenetSystemAPI.NewFolder;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Cryptography;
 
 namespace hospitalManagementSystemAPI.Controllers
 {

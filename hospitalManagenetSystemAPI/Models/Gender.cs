@@ -9,7 +9,7 @@ namespace hospitalManagementSystemAPI.Models
         [Required]
         public string Name { get; set; }
 
-        public ICollection<Patient> patients { get; set; }  
-        
+        public ICollection<Patient> patients { get; set; }
+
     }
 }

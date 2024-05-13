@@ -1,7 +1,4 @@
-﻿using hospitalManagementSystemAPI.Models;
-using hospitalManagenetSystemAPI.Models;
-
-namespace hospitalManagenetSystemAPI.NewFolder
+﻿namespace hospitalManagenetSystemAPI.NewFolder
 {
     public class PatientDto
     {
@@ -14,6 +11,6 @@ namespace hospitalManagenetSystemAPI.NewFolder
         public string Password { get; set; }
         public DateOnly BirthDate { get; set; }
 
-       
+
     }
 }

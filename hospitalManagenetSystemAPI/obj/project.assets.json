@@ -1486,11 +1486,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\KPL-CoffeJava-rindang_membuatTableDriven_admin\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
       "projectName": "hospitalManagenetSystemAPI",
       "projectPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\KPL-CoffeJava-rindang_membuatTableDriven_admin\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\KPL-CoffeJava-rindang_membuatTableDriven_admin\\hospitalManagenetSystemAPI\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+      "projectName": "hospitalManagenetSystemAPI",
+      "projectPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

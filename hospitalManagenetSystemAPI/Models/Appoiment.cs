@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace hospitalManagenetSystemAPI.Models
+﻿namespace hospitalManagenetSystemAPI.Models
 {
 
     public enum AppointmentStatus
@@ -8,7 +6,7 @@ namespace hospitalManagenetSystemAPI.Models
         Scheduled,
         Completed,
         Canceled,
-        
+
     }
     public class Appoiment
     {
@@ -21,14 +19,14 @@ namespace hospitalManagenetSystemAPI.Models
         public int Sapacity { get; set; }
 
 
-       
+
         public Room Room { get; set; }
         public ICollection<Patient>? Patients { get; set; }
 
-   
+
         public Doctor Doctor { get; set; }
 
 
-        
+
     }
 }

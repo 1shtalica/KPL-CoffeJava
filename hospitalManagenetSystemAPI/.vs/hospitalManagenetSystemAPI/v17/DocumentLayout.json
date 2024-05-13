@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\KPL-CoffeJava-rindang_membuatTableDriven_admin\\hospitalManagenetSystemAPI\\",
   "Documents": [
     {
@@ -144,6 +145,76 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\kpl-coffejava-rindang_membuattabledriven_admin\\hospitalmanagenetsystemapi\\migrations\\20240506023021_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\frontend\\automata\\automata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F45E4B-C1E0-4A36-B2B0-3F7CED412D30}|..\\AutoTes\\AutoTes.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\autotes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\models\\appoimentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:models\\appoimentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\frontend\\automata\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505184421_update migration 13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505184421_update migration 13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505172014_update migration 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505172014_update migration 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505163926_update migration 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505163926_update migration 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505152204_update migration 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505152204_update migration 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505151906_update migration 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505151906_update migration 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505181941_update migration 12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505181941_update migration 12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505180231_update migration 11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505180231_update migration 11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505175421_update migration 10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505175421_update migration 10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240505174917_update migration 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240505174917_update migration 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalmanagenetsystemapi\\migrations\\20240506023021_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240506023021_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -154,6 +225,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 376,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -593,6 +665,236 @@
               "RelativeToolTip": "Migrations\\20240505151906_update migration 2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+=======
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:04:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\Frontend\\Program.cs",
+              "RelativeToolTip": "..\\Frontend\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:02:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "automata.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\Frontend\\Automata\\automata.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\automata.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\Frontend\\Automata\\automata.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\automata.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwFEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:36:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\AutoTes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\AutoTes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\AutoTes\\UnitTest1.cs",
+              "RelativeToolTip": "..\\AutoTes\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:36:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\DTO\\PatientDto.cs",
+              "RelativeDocumentMoniker": "DTO\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\DTO\\PatientDto.cs",
+              "RelativeToolTip": "DTO\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:27:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAASwAoBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:27:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppoimentPatient.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Models\\AppoimentPatient.cs",
+              "RelativeDocumentMoniker": "Models\\AppoimentPatient.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Models\\AppoimentPatient.cs",
+              "RelativeToolTip": "Models\\AppoimentPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:27:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\Frontend\\Automata\\Login.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\Login.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\Frontend\\Automata\\Login.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:27:34.569Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240506023021_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240506023021_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240506023021_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240506023021_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240506023021_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240505184421_update migration 13.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505184421_update migration 13.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505184421_update migration 13.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505184421_update migration 13.cs",
+              "RelativeToolTip": "Migrations\\20240505184421_update migration 13.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240505181941_update migration 12.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505181941_update migration 12.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505181941_update migration 12.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505181941_update migration 12.cs",
+              "RelativeToolTip": "Migrations\\20240505181941_update migration 12.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240505180231_update migration 11.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505180231_update migration 11.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505180231_update migration 11.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505180231_update migration 11.cs",
+              "RelativeToolTip": "Migrations\\20240505180231_update migration 11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240505175421_update migration 10.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505175421_update migration 10.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505175421_update migration 10.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505175421_update migration 10.cs",
+              "RelativeToolTip": "Migrations\\20240505175421_update migration 10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240505174917_update migration 9.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505174917_update migration 9.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505174917_update migration 9.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505174917_update migration 9.cs",
+              "RelativeToolTip": "Migrations\\20240505174917_update migration 9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240505172014_update migration 6.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505172014_update migration 6.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505172014_update migration 6.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505172014_update migration 6.cs",
+              "RelativeToolTip": "Migrations\\20240505172014_update migration 6.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240505163926_update migration 5.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505163926_update migration 5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505163926_update migration 5.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505163926_update migration 5.cs",
+              "RelativeToolTip": "Migrations\\20240505163926_update migration 5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240505152204_update migration 3.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505152204_update migration 3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505152204_update migration 3.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505152204_update migration 3.cs",
+              "RelativeToolTip": "Migrations\\20240505152204_update migration 3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:45:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240505151906_update migration 2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505151906_update migration 2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240505151906_update migration 2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\automata\\v2 with rins frontend folder\\kpl rin 2\\hospitalManagenetSystemAPI\\Migrations\\20240505151906_update migration 2.cs",
+              "RelativeToolTip": "Migrations\\20240505151906_update migration 2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+>>>>>>> Stashed changes
               "WhenOpened": "2024-05-08T13:45:02.797Z"
             }
           ]

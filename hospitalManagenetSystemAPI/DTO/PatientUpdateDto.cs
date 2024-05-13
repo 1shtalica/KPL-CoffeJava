@@ -10,6 +10,6 @@
         public string? Email { get; set; }
         public DateTime? BirthDate { get; set; }
 
-     
+
     }
 }

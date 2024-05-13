@@ -6,7 +6,7 @@ namespace hospitalManagenetSystemAPI.Models
     {
         [Key]
         [Required]
-        public string bloodType {  get; set; }
+        public string bloodType { get; set; }
         public ICollection<Patient> patients { get; set; }
 
     }

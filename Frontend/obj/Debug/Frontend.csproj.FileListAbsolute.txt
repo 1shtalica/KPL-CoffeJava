@@ -1,0 +1,14 @@
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\bin\Debug\Frontend.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\bin\Debug\Frontend.pdb
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.csproj.AssemblyReference.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\bin\Debug\Frontend.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\bin\Debug\Frontend.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\obj\Debug\Frontend.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\obj\Debug\Frontend.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\automata\v2 with rins frontend folder\kpl rin 2\Frontend\obj\Debug\Frontend.pdb

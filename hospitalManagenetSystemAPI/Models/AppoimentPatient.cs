@@ -5,7 +5,7 @@
         public int AppoimentId { get; set; }
         public Appoiment Appoiment { get; set; }
 
-        public int PatientId { get; set; }  
+        public int PatientId { get; set; }
         public Patient Patient { get; set; }
     }
 }
