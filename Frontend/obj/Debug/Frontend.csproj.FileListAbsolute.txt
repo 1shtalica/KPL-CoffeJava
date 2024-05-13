@@ -1,0 +1,7 @@
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\bin\Debug\Frontend.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\bin\Debug\Frontend.pdb
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.csproj.AssemblyReference.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Frontend\obj\Debug\Frontend.pdb

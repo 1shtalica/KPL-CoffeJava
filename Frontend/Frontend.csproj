@@ -46,6 +46,7 @@
     <Compile Include="Automata\automata.cs" />
     <Compile Include="Automata\Dashboard.cs" />
     <Compile Include="Automata\Login.cs" />
+    <Compile Include="Automata\Logout.cs" />
     <Compile Include="Automata\Registrasi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

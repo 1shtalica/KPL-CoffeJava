@@ -2,8 +2,6 @@
 {
     public class Dashboard
     {
-
-
         public Dashboard() { }
 
         public void Show()

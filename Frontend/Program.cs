@@ -10,6 +10,7 @@ namespace Frontend
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }

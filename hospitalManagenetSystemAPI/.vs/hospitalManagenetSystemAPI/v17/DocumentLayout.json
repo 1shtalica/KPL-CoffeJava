@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\automata\\automata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\automata\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\automata\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\automata\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\tabledriven\\tabledrivenadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0781D8D3-72B4-458A-9FAE-75CBA703DF49}|..\\UnitTestDriven\\UnitTestDriven.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\unittestdriven\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalmanagenetsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:hospitalmanagenetsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\automata\\registrasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\dto\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:dto\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,15 +43,8 @@
       "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalmanagenetsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:hospitalmanagenetsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalmanagenetsystemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:hospitalmanagenetsystemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AA26DA-769E-44FD-9637-9DE4A9EAA815}|..\\Frontend\\Frontend.csproj|c:\\users\\rinda\\onedrive\\documents\\project\\kpl\\kpl-coffejava\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,28 +154,113 @@
       "DocumentGroups": [
         {
           "DockedHeight": 376,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\UnitTestDriven\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestDriven\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\UnitTestDriven\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestDriven\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:18:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableDrivenAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\TableDriven\\TableDrivenAdmin.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\TableDriven\\TableDrivenAdmin.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\TableDriven\\TableDrivenAdmin.cs",
+              "RelativeToolTip": "..\\Frontend\\TableDriven\\TableDrivenAdmin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:17:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Logout.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\Logout.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Logout.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\Logout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:08:17.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "automata.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\automata.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\automata.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\automata.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\automata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:53:23.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Dashboard.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Dashboard.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:53:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registrasi.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Registrasi.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\Registrasi.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Registrasi.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\Registrasi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:50:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Login.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Automata\\Login.cs",
+              "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Automata\\Login.cs",
+              "RelativeToolTip": "..\\Frontend\\Automata\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:47:01.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Program.cs",
               "RelativeDocumentMoniker": "..\\Frontend\\Program.cs",
               "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\Frontend\\Program.cs",
               "RelativeToolTip": "..\\Frontend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:31:44.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:31:44.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -166,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "hospitalManagenetSystemAPI.csproj",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
               "RelativeDocumentMoniker": "hospitalManagenetSystemAPI.csproj",
@@ -179,19 +285,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "hospitalManagenetSystemAPI",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
               "RelativeDocumentMoniker": "hospitalManagenetSystemAPI.csproj",
               "ToolTip": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
               "RelativeToolTip": "hospitalManagenetSystemAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-08T14:00:24.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T14:00:24.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "Appoiment.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Appoiment.cs",
               "RelativeDocumentMoniker": "Models\\Appoiment.cs",
@@ -203,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "MedicalCheckUp.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\MedicalCheckUp.cs",
               "RelativeDocumentMoniker": "Models\\MedicalCheckUp.cs",
@@ -215,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "Models\\Admin.cs",
@@ -227,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "PatientDto.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\PatientDto.cs",
               "RelativeDocumentMoniker": "DTO\\PatientDto.cs",
@@ -239,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "BloodType.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\BloodType.cs",
               "RelativeDocumentMoniker": "Models\\BloodType.cs",
@@ -251,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "Models\\Gender.cs",
@@ -263,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Models\\Patient.cs",
@@ -275,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -287,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
@@ -299,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "PatientUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\PatientUpdateDto.cs",
               "RelativeDocumentMoniker": "DTO\\PatientUpdateDto.cs",
@@ -307,12 +412,11 @@
               "RelativeToolTip": "DTO\\PatientUpdateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:45:02.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T13:45:02.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Models\\Room.cs",
@@ -324,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Models\\Doctor.cs",
@@ -336,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Specialization.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\Specialization.cs",
               "RelativeDocumentMoniker": "Models\\Specialization.cs",
@@ -348,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -360,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "AppoimentPatient.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Models\\AppoimentPatient.cs",
               "RelativeDocumentMoniker": "Models\\AppoimentPatient.cs",
@@ -368,12 +472,11 @@
               "RelativeToolTip": "Models\\AppoimentPatient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:45:02.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T13:45:02.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -381,12 +484,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T13:45:02.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T13:45:02.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "20240505141553_update migration.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505141553_update migration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505141553_update migration.cs",
@@ -404,7 +506,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "20240506023021_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240506023021_InitialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240506023021_InitialMigration.cs",
@@ -416,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "20240505184421_update migration 13.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505184421_update migration 13.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505184421_update migration 13.cs",
@@ -429,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "20240505181941_update migration 12.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505181941_update migration 12.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505181941_update migration 12.cs",
@@ -441,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "20240505180231_update migration 11.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505180231_update migration 11.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505180231_update migration 11.cs",
@@ -453,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "20240505175421_update migration 10.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505175421_update migration 10.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505175421_update migration 10.cs",
@@ -465,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "20240505174917_update migration 9.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505174917_update migration 9.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505174917_update migration 9.cs",
@@ -477,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "20240505172014_update migration 6.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505172014_update migration 6.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505172014_update migration 6.cs",
@@ -489,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "20240505163926_update migration 5.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505163926_update migration 5.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505163926_update migration 5.cs",
@@ -501,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "20240505152204_update migration 3.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505152204_update migration 3.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505152204_update migration 3.cs",
@@ -513,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "20240505151906_update migration 2.cs",
               "DocumentMoniker": "C:\\Users\\rinda\\OneDrive\\Documents\\Project\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240505151906_update migration 2.cs",
               "RelativeDocumentMoniker": "Migrations\\20240505151906_update migration 2.cs",

@@ -1,4 +1,7 @@
-﻿namespace hospitalManagenetSystemAPI.Automata
+﻿using Frontend.Automata;
+using System;
+
+namespace hospitalManagenetSystemAPI.Automata
 {
     public class automata
     {
@@ -20,20 +23,81 @@
         }
 
         public static void posisiTransition(State nextPos) {
-
-            // Jika keadaan pada posisi masuk pada login.
-            if (posisi == State.LOGIN)
+            switch (posisi)
             {
-                if (nextPos == State.DASHBOARD)
-                {
-                    Dashboard dashboard = new Dashboard();
-                    dashboard.Show();
-                }
-                else if (nextPos == State.REGISTRASI) 
-                {
-                    Registrasi registrasi = new Registrasi();
-                    registrasi.Show();
-                }
+                case State.LOGIN:
+                    switch (nextPos)
+                    {
+                        case State.DASHBOARD:
+                            Dashboard dashboard = new Dashboard();
+                            dashboard.Show();
+                            posisi = State.DASHBOARD;
+                            break;
+                        case State.REGISTRASI:
+                            Registrasi registrasi = new Registrasi();
+                            registrasi.Show();
+                            posisi = State.REGISTRASI;
+                            break;
+                        case State.LOGOUT:
+                            Logout logout = new Logout();
+                            logout.Show();
+                            posisi = State.LOGOUT;
+                            break;
+                        default:
+                            Console.WriteLine("Next state tidak valid");
+                            break;
+                    }
+                    break;
+                case State.REGISTRASI:
+                    switch (nextPos)
+                    {
+                        case State.LOGIN:
+                            Login login = new Login();
+                            login.Show();
+                            posisi = State.LOGIN;
+                            break;
+                        case State.LOGOUT:
+                            Logout logout = new Logout();
+                            logout.Show();
+                            posisi = State.LOGOUT;
+                            break;
+                        default:
+                            Console.WriteLine("Next state tidak valid");
+                            break;
+                    }
+                    break;
+                case State.DASHBOARD:
+                    switch (nextPos)
+                    {
+                        case State.LOGOUT:
+                            Logout logout = new Logout();
+                            logout.Show();
+                            posisi = State.LOGOUT;
+                            break;
+                        default:
+                            Console.WriteLine("Next state tidak valid");
+                            break;
+                    }
+                    break;
+                case State.LOGOUT:
+                    switch (nextPos)
+                    {
+                        case State.LOGIN:
+                            Login login = new Login();
+                            login.Show();
+                            posisi = State.LOGIN;
+                            break;
+                        case State.REGISTRASI:
+                            Registrasi registrasi = new Registrasi();
+                            registrasi.Show();
+                            posisi = State.REGISTRASI;
+                            break;
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Current state tidak valid");
+                    break;
             }
+        }
     }
 }
