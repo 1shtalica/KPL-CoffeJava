@@ -10,7 +10,7 @@ namespace UnitTestDriven
         [TestMethod]
         public void TestGetUserName()
         {
-            string user = "admin1";
+            string user = "admin2";
 
             TableDrivenAdmin.Username expected = TableDrivenAdmin.Username.admin1;
 
@@ -23,8 +23,8 @@ namespace UnitTestDriven
         [TestMethod]
         public void TestGetUserPassword()
         {
-            string user = "admin1";
-            string pass = "pass123";
+            string user = "admin2";
+            string pass = "admin123";
 
             string actual = string.Empty;
             try
