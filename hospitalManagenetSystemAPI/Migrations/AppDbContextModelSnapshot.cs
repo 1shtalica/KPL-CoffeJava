@@ -285,12 +285,15 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.Property<string>("RoomName")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(255)");
 
                     b.Property<int>("RoomNumber")
                         .HasColumnType("int");
 
                     b.HasKey("RoomId");
+
+                    b.HasIndex("RoomName")
+                        .IsUnique();
 
                     b.ToTable("rooms");
                 });
@@ -307,9 +310,12 @@ namespace hospitalManagenetSystemAPI.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(255)");
 
                     b.HasKey("SpecializationId");
+
+                    b.HasIndex("Name")
+                        .IsUnique();
 
                     b.ToTable("specializations");
                 });

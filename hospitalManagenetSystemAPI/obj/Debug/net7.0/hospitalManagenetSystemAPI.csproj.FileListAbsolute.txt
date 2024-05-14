@@ -1,46 +1,3 @@
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CopyComplete
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
-D:\hospitalApi\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-D:\hospitalApi\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
 D:\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
 D:\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
 D:\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
@@ -84,138 +41,133 @@ D:\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalMana
 D:\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
 D:\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
 D:\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
-<<<<<<< HEAD
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.sourcelink.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospital.73BE3890.Up2Date
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
-D:\Program\c#\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.sourcelink.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CopyComplete
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
-D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
-=======
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.sourcelink.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospital.73BE3890.Up2Date
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
-C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
->>>>>>> 5cc1525ed606bf7e0f7c6e812cbefe322257e097
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CopyComplete
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
+D:\New folder (4)\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.sourcelink.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospital.73BE3890.Up2Date
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#4\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.AssemblyReference.cache
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfoInputs.cache
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.AssemblyInfo.cs
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CoreCompileInputs.cache
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\refint\hospitalManagenetSystemAPI.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\appsettings.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Humanizer.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.hospitalManagenetSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.hospitalManagenetSystemAPI.props
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospitalManagenetSystemAPI.props
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospitalManagenetSystemAPI.props
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\scopedcss\bundle\hospitalManagenetSystemAPI.styles.css
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.csproj.CopyComplete
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
+D:\kpl5\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
