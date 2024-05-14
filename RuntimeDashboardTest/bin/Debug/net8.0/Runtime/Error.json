@@ -1,0 +1,17 @@
+{
+    "error": {
+        "overload_patient": "Patient is full",
+        "wrong_password": "Password is wrong",
+        "wrong_username": "Username is wrong",
+        "bad_request": "500 bad request",
+        "access_denied": "Access denied",
+        "resource_not_found": "Resource not found"
+    },
+    "success": {
+        "login_successful": "Login successful",
+        "logout_successful": "Logout successful",
+        "record_created": "Record created successfully",
+        "record_updated": "Record updated successfully",
+        "record_deleted": "Record deleted successfully"
+    }
+}
