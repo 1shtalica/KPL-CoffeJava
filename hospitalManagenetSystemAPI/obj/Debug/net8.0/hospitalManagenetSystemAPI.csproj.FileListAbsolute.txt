@@ -86,3 +86,5 @@ D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\ob
 D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.csproj.CopyComplete
 D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net8.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
 D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net8.0\ref\hospitalManagenetSystemAPI.dll
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net8.0\Runtime\Error.json
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net8.0\Newtonsoft.Json.dll

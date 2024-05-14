@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8O0LpzcTUevu0sNUVm88MFqfnYillibo4ki4F5HT1Oqs/v/juOy2By2r8Vl2SsZzTrXkJRzHZrX57SVETnkrLw==",
+  "dgSpecHash": "MWAIMsM/iDhuhW7EehdwJFsuJEEgEx3BwEeMcVU3KXbZ3DbC5SVVwdpJ/SU1oCx/a5UecUFHcH1ImpB0eprOUA==",
   "success": true,
   "projectFilePath": "D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
@@ -35,12 +36,5 @@
     "C:\\Users\\adria\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -15,7 +15,7 @@ namespace hospitalManagenetSystemAPI.Controllers
         private readonly AppDbContext _context;
         public MedicalCheckUpController(AppDbContext context)
         {
-            this._context = context;
+            _context = context;
         }
 
         // GET: api/MedicalCheckUp
@@ -23,16 +23,16 @@ namespace hospitalManagenetSystemAPI.Controllers
         public IActionResult GetMedicalCheckUps()
         {
             var allMcu = _context.medicalCheckUps
-                                        .Select(m => new
-                                        {
-                                            m.MedicalChekUpId,
-                                            date = m.date.ToString("yyyy-MM-dd"),
-                                            m.NoteMedicalChekup,
-                                            m.Result,
-                                            Doctor = m.Doctor.firstName,
-                                            Patient = m.Patient.FirstName
-                                        })
-                                        .ToList();
+                         .Select(m => new
+                         {
+                              m.MedicalChekUpId,
+                              date = m.date.ToString("yyyy-MM-dd"),
+                              m.NoteMedicalChekup,
+                              m.Result,
+                              Doctor = m.Doctor.firstName,
+                              Patient = m.Patient.FirstName
+                         })
+                         .ToList();
             return Ok(allMcu);
         }
 
@@ -40,23 +40,31 @@ namespace hospitalManagenetSystemAPI.Controllers
         [HttpGet("{id}")]
         public IActionResult GetMedicalCheckUp(int id)
         {
-            var medicalCheckUp = _context.medicalCheckUps.Where(m => m.MedicalChekUpId == id).Select(m => new
+            try
             {
-                m.MedicalChekUpId,
-                date = m.date.ToString("yyyy-MM-dd"),
-                m.NoteMedicalChekup,
-                m.Result,
-                Doctor = m.Doctor.firstName,
-                Patient = m.Patient.FirstName
-            }).FirstOrDefault();
+                var medicalCheckUp = _context.medicalCheckUps.Where(m => m.MedicalChekUpId == id).Select(m => new
+                {
+                    m.MedicalChekUpId,
+                    date = m.date.ToString("yyyy-MM-dd"),
+                    m.NoteMedicalChekup,
+                    m.Result,
+                    Doctor = m.Doctor.firstName,
+                    Patient = m.Patient.FirstName
+                }).FirstOrDefault();
 
-            if (medicalCheckUp == null)
+                if (medicalCheckUp == null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    return Ok(medicalCheckUp);
+                }
+            } catch(Exception ex)
             {
-                return NotFound();
-            } else
-            {
-                return Ok(medicalCheckUp);
+                return BadRequest(ex.Message);
             }
+           
         }
 
         // POST: api/MedicalCheckUp
@@ -105,35 +113,41 @@ namespace hospitalManagenetSystemAPI.Controllers
         [HttpPut("{id}")]
         public IActionResult PutMedicalCheckUp(int id, [FromBody] MedicalCheckUpEdit medicalCheckUp, [FromQuery] int doctorID, [FromQuery] int patientID)
         {
+            try
+            {
+                var data = _context.medicalCheckUps.Find(id);
+                if (data == null)
+                {
+                    return NotFound();
+                }
+
+                var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorID);
+                if (doctor == null)
+                {
+                    return NotFound();
+                }
+
+                var patient = _context.patients.FirstOrDefault(p => p.PatientId == patientID);
+                if (patient == null)
+                {
+                    return NotFound();
+                }
+
+                data.date = medicalCheckUp.date;
+                data.Result = medicalCheckUp.Result;
+                data.NoteMedicalChekup = medicalCheckUp.NoteMedicalChekup;
+                data.Doctor = doctor;
+                data.Patient = patient;
+
+                _context.Entry(medicalCheckUp).State = EntityState.Modified;
+                _context.SaveChanges();
+
+                return NoContent();
+            } catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
             
-            var data = _context.medicalCheckUps.Find(id);
-            if(data == null)
-            {
-                return NotFound();
-            }
-
-            var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorID);
-            if(doctor == null)
-            {
-                return NotFound();
-            }
-
-            var patient = _context.patients.FirstOrDefault(p => p.PatientId == patientID);
-            if(patient == null)
-            {
-                return NotFound();
-            }
-
-            data.date = medicalCheckUp.date;
-            data.Result = medicalCheckUp.Result;
-            data.NoteMedicalChekup = medicalCheckUp.NoteMedicalChekup;
-            data.Doctor = doctor;
-            data.Patient = patient;
-
-            _context.Entry(medicalCheckUp).State = EntityState.Modified;
-            _context.SaveChanges();
-
-            return NoContent();
         }
 
         // DELETE: api/MedicalCheckUp/5

@@ -12,7 +12,8 @@ namespace hospitalManagenetSystemAPI.Controllers
     public class AppoimentController : ControllerBase
     {
         private readonly AppDbContext _context;
-        
+        private object appoimentRequest;
+
         public AppoimentController(AppDbContext context)
         {
             _context = context;
@@ -21,20 +22,54 @@ namespace hospitalManagenetSystemAPI.Controllers
         [HttpGet]
         public IActionResult GetAppoiment()
         {
-            return Ok(_context.Appoiments.ToList());
+            try
+            {
+                var data = _context.Appoiments.Select(a => new
+                {
+                    a.AppoimentId,
+                    a.TimeStart,
+                    a.TimeEnd,
+                    a.Status,
+                    a.IsCompleted,
+                    a.Sapacity,
+                    Room = a.Room.RoomNumber,
+                    Doctor = a.Doctor.firstName
+                }).ToList();
+                return Ok(data);
+            } catch (Exception ex) { 
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpGet("{id}")]
         public IActionResult GetAppoinmentById(int id)
         {
-            var data = _context.Appoiments.Find(id);
-            if(data == null)
+            try
             {
-                return NotFound();
-            } else
+                var data = _context.Appoiments.Where(a => a.AppoimentId == id).Select(a => new
+                {
+                    a.AppoimentId,
+                    a.TimeStart,
+                    a.TimeEnd,
+                    a.Status,
+                    a.IsCompleted,
+                    a.Sapacity,
+                    Room = a.Room.RoomNumber,
+                    Doctor = a.Doctor.firstName
+                }).FirstOrDefault();
+                if (data == null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    return Ok(data);
+                }
+            } catch (Exception ex)
             {
-                return Ok(data);
+                return BadRequest(ex.Message);
             }
+           
 
         }
 
@@ -63,8 +98,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                 Appoiment data = new Appoiment()
                 {
                     TimeStart = appoinmentRequest.TimeStart,
-                    TimeEnd = appoinmentRequest.TimeEnd,
-                    Status = appoinmentRequest.Status,
+                    TimeEnd =  appoinmentRequest.TimeEnd,
                     IsCompleted = appoinmentRequest.IsComplete,
                     Sapacity = appoinmentRequest.Sapacity,
 
@@ -83,55 +117,70 @@ namespace hospitalManagenetSystemAPI.Controllers
         [HttpPut("{id}")]
         public IActionResult EditAppointment(int id, [FromBody] AppoinmentEdit appointmentEdit, [FromQuery] int doctorID, [FromQuery] int roomID)
         {
-            var appointment = _context.Appoiments.Find(id);
-
-            if (appointment == null)
+            try
             {
-                return NotFound();
+                var appointment = _context.Appoiments.Find(id);
+
+                if (appointment == null)
+                {
+                    return NotFound();
+                }
+
+                var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorID);
+                if (doctor == null)
+                {
+                    return NotFound();
+                }
+
+                var room = _context.rooms.FirstOrDefault(r => r.RoomId == roomID);
+                if (room == null)
+                {
+                    return NotFound();
+                }
+
+
+
+                appointment.TimeStart = appointmentEdit.TimeStart;
+                appointment.TimeEnd = appointmentEdit.TimeEnd;
+                appointment.IsCompleted = appointmentEdit.IsCompleted;
+                appointment.Sapacity = appointmentEdit.Sapacity;
+                appointment.Room = room;
+                appointment.Doctor = doctor;
+
+                _context.Entry(appointment).State = EntityState.Modified;
+                _context.SaveChanges();
+
+                return NoContent();
+            } catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
             }
             
-            var doctor = _context.doctors.FirstOrDefault(d => d.DoctorId == doctorID);
-            if (doctor == null)
-            {
-                return NotFound();
-            }
-
-            var room = _context.rooms.FirstOrDefault(r => r.RoomId ==  roomID);
-            if(room == null)
-            {
-                return NotFound();
-            }
-
-            
-
-            appointment.TimeStart = appointmentEdit.TimeStart;
-            appointment.TimeEnd = appointmentEdit.TimeEnd;
-            appointment.Status = appointmentEdit.Status;
-            appointment.IsCompleted = appointmentEdit.IsCompleted;
-            appointment.Sapacity = appointmentEdit.Sapacity;
-            appointment.Room = room;
-            appointment.Doctor = doctor;
-
-            _context.Entry(appointment).State = EntityState.Modified;
-            _context.SaveChanges();
-
-            return NoContent();
         }
 
         [HttpDelete("{id}")]
         public IActionResult DeleteAppointment(int id)
         {
-            var appointment = _context.Appoiments.Find(id);
-
-            if (appointment == null)
+            try
             {
-                return NotFound();
+                var appointment = _context.Appoiments.Find(id);
+
+                if (appointment == null)
+                {
+                    return NotFound();
+                }
+
+                _context.Appoiments.Remove(appointment);
+                _context.SaveChanges();
+
+                return NoContent();
             }
 
-            _context.Appoiments.Remove(appointment);
-            _context.SaveChanges();
-
-            return NoContent();
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+           
         }
 
 
