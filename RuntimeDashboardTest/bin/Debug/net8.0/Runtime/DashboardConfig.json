@@ -1,11 +1,11 @@
 ﻿{
   "id": {
-    "dashboard": "dasbor",
+    "dashboard": "Dasbor",
     "patients": "pasien",
-    "appointments": "janji",
-    "medicalRecords": "catatanMedis",
-    "settings": "pengaturan",
-    "logout": "keluar"
+    "appointments": "Janji",
+    "medicalRecords": "Catatan Medis",
+    "settings": "Pengaturan",
+    "logout": "Keluar"
   },
   "en": {
     "dashboard": "Dashboard",

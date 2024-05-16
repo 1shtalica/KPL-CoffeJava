@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "RuntimeDashboardTest/1.0.0": {
         "dependencies": {
+          "Library": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "coverlet.collector": "6.0.0",
           "hospitalManagenetSystemAPI": "1.0.0",
@@ -1187,6 +1188,14 @@
         "runtime": {
           "hospitalManagenetSystemAPI.dll": {}
         }
+      },
+      "Library/1.0.0": {
+        "dependencies": {
+          "hospitalManagenetSystemAPI": "1.0.0"
+        },
+        "runtime": {
+          "Library.dll": {}
+        }
       }
     }
   },
@@ -1974,6 +1983,11 @@
       "hashPath": "xunit.runner.visualstudio.2.5.3.nupkg.sha512"
     },
     "hospitalManagenetSystemAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
