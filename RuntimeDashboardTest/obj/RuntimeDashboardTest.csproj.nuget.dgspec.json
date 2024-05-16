@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[7.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -95,6 +99,70 @@
         }
       }
     },
+    "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\adibf\\.nuget\\packages\\",
+        "outputPath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adibf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj": {
+                "projectPath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\RuntimeDashboardTest\\RuntimeDashboardTest.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -121,6 +189,9 @@
             "projectReferences": {
               "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj": {
                 "projectPath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj"
+              },
+              "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Library.csproj": {
+                "projectPath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Library.csproj"
               }
             }
           }

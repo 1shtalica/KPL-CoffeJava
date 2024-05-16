@@ -218,3 +218,4 @@ E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\K
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

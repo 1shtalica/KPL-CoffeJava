@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TdLB0cmWieAtdVcKJ2NYKtN8CAmO9v/F+KZ3p4DIKMvDEbbIyQA07p7DLic19FX/SKco910vqz6v+0JPXxT5XQ==",
+  "dgSpecHash": "xzERRbQ9K4PLUr5aysx9j6/z11BdUmUL3t9JGMoC5EjhUjs3SQiOz0Gz3PBbFU6hQf+YTIKqhvl9ZtEL3ZnXXQ==",
   "success": true,
   "projectFilePath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\RuntimeDashboardTest\\RuntimeDashboardTest.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\adibf\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
     "C:\\Users\\adibf\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.7\\microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
     "C:\\Users\\adibf\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.7\\microsoft.entityframeworkcore.analyzers.7.0.7.nupkg.sha512",
+    "C:\\Users\\adibf\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.5\\microsoft.entityframeworkcore.inmemory.7.0.5.nupkg.sha512",
     "C:\\Users\\adibf\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\adibf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\adibf\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",

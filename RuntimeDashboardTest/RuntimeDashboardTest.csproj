@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\hospitalManagenetSystemAPI\hospitalManagenetSystemAPI.csproj" />
+    <ProjectReference Include="..\Library\Library.csproj" />
   </ItemGroup>
 
   <ItemGroup>

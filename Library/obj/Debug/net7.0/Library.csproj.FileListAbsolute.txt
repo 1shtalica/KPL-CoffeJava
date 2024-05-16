@@ -29,3 +29,26 @@ D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
 D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
 D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
 D:\kpl5\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.Development.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\Runtime\DashboardConfig.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\Runtime\Error.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.deps.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.pdb
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.sourcelink.json
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.Up2Date
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll

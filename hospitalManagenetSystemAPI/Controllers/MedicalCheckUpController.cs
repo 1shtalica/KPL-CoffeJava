@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using hospitalManagementSystemAPI.Models;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Model;
 
 namespace hospitalManagenetSystemAPI.Controllers
 {

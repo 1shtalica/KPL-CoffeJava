@@ -1,4 +1,6 @@
-﻿using System;
+﻿using hospitalManagenetSystemAPI.Data;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,6 +27,20 @@ namespace Library
             }
         }
 
-        
+        //mengecek 1 pasien 1 mcu
+        public static bool reachMax(int idPatient, AppDbContext context)
+        {
+            var patient = context.patients.Include(p => p.medicalCheckUps).FirstOrDefault(p => p.PatientId == idPatient);
+
+            if (patient == null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
     }
 }

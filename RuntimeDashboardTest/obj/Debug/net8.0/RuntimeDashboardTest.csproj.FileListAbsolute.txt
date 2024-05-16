@@ -118,3 +118,5 @@ E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\K
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\RuntimeDashboardTest\obj\Debug\net8.0\RuntimeDashboardTest.pdb
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\RuntimeDashboardTest\obj\Debug\net8.0\RuntimeDashboardTest.genruntimeconfig.cache
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\RuntimeDashboardTest\obj\Debug\net8.0\ref\RuntimeDashboardTest.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\RuntimeDashboardTest\bin\Debug\net8.0\Library.dll
+E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\RuntimeDashboardTest\bin\Debug\net8.0\Library.pdb
