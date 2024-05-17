@@ -1,12 +1,19 @@
+<<<<<<< Updated upstream
 ﻿using hospitalManagenetSystemAPI.Automata;
 using System;
 
 namespace hospitalManagenetSystemAPI
+=======
+﻿using System;
+
+namespace TerminalProgram
+>>>>>>> Stashed changes
 {
     class Program
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             Console.WriteLine("Welcome to the Hospital Management System!");
 
             string input;
@@ -54,6 +61,49 @@ namespace hospitalManagenetSystemAPI
                 Console.WriteLine("Ketik '-1' untuk keluar atau ketik apa saja untuk lanjut:");
                 input = Console.ReadLine();
             } while (input != "-1");
+=======
+            while (true)
+            {
+                Console.Write("Enter username (neuro1 or neuro2): ");
+                string username = Console.ReadLine();
+
+                Console.Write("Enter password: ");
+                string password = Console.ReadLine();
+
+                try
+                {
+                    string storedPassword = Frontend.TableDriven.TableDrivenNeurology.GetPassword(username);
+
+                    if (password == storedPassword)
+                    {
+                        Console.WriteLine($"Welcome, {username}!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid password.");
+                    }
+                }
+                catch (ArgumentException ex)
+                {
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+                catch (IndexOutOfRangeException ex)
+                {
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+                catch (InvalidOperationException ex)
+                {
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+
+                Console.WriteLine("Do you want to try again? (yes/no)");
+                string input = Console.ReadLine().ToLower();
+                if (input != "yes")
+                    break;
+            }
+
+            Console.WriteLine("Thank you for using the Terminal Program!");
+>>>>>>> Stashed changes
         }
     }
 }

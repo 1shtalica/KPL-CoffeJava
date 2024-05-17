@@ -50,6 +50,10 @@
     <Compile Include="Automata\Registrasi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="TableDriven\TableDrivenNeurology.cs" />
+>>>>>>> Stashed changes
     <Compile Include="TableDriven\TableDrivenAdmin.cs" />
   </ItemGroup>
   <ItemGroup>
