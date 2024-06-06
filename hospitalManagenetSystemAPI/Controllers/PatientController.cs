@@ -3,10 +3,13 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using hospitalManagementSystemAPI.Models;
+
 using hospitalManagenetSystemAPI.Data;
+using hospitalManagenetSystemAPI.DTO;
 using hospitalManagenetSystemAPI.Models;
 using hospitalManagenetSystemAPI.NewFolder;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace hospitalManagementSystemAPI.Controllers
 {
@@ -246,6 +249,58 @@ namespace hospitalManagementSystemAPI.Controllers
             }
         }
 
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] Login login)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(login.Password) || string.IsNullOrEmpty(login.Email))
+                {
+                    return BadRequest("Invalid data: email or password is null or empty.");
+                }
+
+                // Pisahkan query untuk debugging
+                var patient = _context.patients.FirstOrDefault(d => d.Email == login.Email);
+
+
+                if (patient == null)
+                {
+                    return NotFound("patient not found.");
+                }
+
+                // Debugging tambahan
+               
+
+                if (ComparePassword(login.Password   , patient.Password, patient.Salt))
+                {
+
+
+                    var patientDto = new
+                    {
+                        firstName = patient.FirstName,
+                        lastName = patient.LastName,
+                       
+                        Address = patient.Address,
+                        BirthDate = patient.BirthDate,
+                        PhoneNumber = patient.PhoneNumber,
+                        email = patient.Email,
+                    };
+                    
+                    return Ok(patientDto);
+                }
+                else
+                {
+                    return BadRequest("Invalid credentials.");
+                }
+            }
+            catch (Exception ex)
+            {
+                // Log the exception message with inner exception details
+                Console.WriteLine($"Exception: {ex.Message}, Inner Exception: {ex.InnerException?.Message}");
+                return StatusCode(500, $"An error occurred while logging in: {ex.Message}");
+            }
+        }
+
         private byte[] GenerateSalt(int size)
         {
             byte[] salt = new byte[size];
@@ -263,6 +318,14 @@ namespace hospitalManagementSystemAPI.Controllers
                 byte[] hash = pbkdf2.GetBytes(20);
                 return Convert.ToBase64String(hash);
             }
+        }
+        private bool ComparePassword(string inputPassword, string hashedPassword, string saltBase64)
+        {
+            byte[] salt = Convert.FromBase64String(saltBase64);
+            string hashedInputPassword = HashPassword(inputPassword, salt);
+            return hashedPassword == hashedInputPassword;
+
+
         }
     }
 }

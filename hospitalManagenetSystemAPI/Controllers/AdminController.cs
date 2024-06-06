@@ -175,6 +175,58 @@ namespace hospitalManagenetSystemAPI.Controllers
             }
         }
 
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] Login login)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(login.Password) || string.IsNullOrEmpty(login.Email))
+                {
+                    return BadRequest("Invalid data: email or password is null or empty.");
+                }
+
+                // Pisahkan query untuk debugging
+                var admin = _context.Admins.FirstOrDefault(d => d.Email == login.Email);
+
+
+                if (admin == null)
+                {
+                    return NotFound("admin not found.");
+                }
+
+                // Debugging tambahan
+
+
+                if (ComparePassword(login.Password, admin.Password, admin.Salt))
+                {
+
+
+                    var adminDto = new
+                    {
+                        firstName = admin.FirstName,
+                        lastName = admin.LastName,
+
+                        
+                      
+                        PhoneNumber = admin.PhoneNumber,
+                        email = admin.Email,
+                    };
+
+                    return Ok(adminDto);
+                }
+                else
+                {
+                    return BadRequest("Invalid credentials.");
+                }
+            }
+            catch (Exception ex)
+            {
+                // Log the exception message with inner exception details
+                Console.WriteLine($"Exception: {ex.Message}, Inner Exception: {ex.InnerException?.Message}");
+                return StatusCode(500, $"An error occurred while logging in: {ex.Message}");
+            }
+        }
+
         private byte[] GenerateSalt(int size)
         {
             byte[] salt = new byte[size];
@@ -193,5 +245,14 @@ namespace hospitalManagenetSystemAPI.Controllers
                 return Convert.ToBase64String(hash);
             }
         }
+        private bool ComparePassword(string inputPassword, string hashedPassword, string saltBase64)
+        {
+            byte[] salt = Convert.FromBase64String(saltBase64);
+            string hashedInputPassword = HashPassword(inputPassword, salt);
+            return hashedPassword == hashedInputPassword;
+
+
+        }
+
     }
 }

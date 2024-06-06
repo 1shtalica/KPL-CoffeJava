@@ -266,3 +266,4 @@ D:\tugas besar kpl\ver1\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.
 D:\tugas besar kpl\ver1\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.pdb
 D:\tugas besar kpl\ver1\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\hospitalManagenetSystemAPI.genruntimeconfig.cache
 D:\tugas besar kpl\ver1\KPL-CoffeJava\hospitalManagenetSystemAPI\obj\Debug\net7.0\ref\hospitalManagenetSystemAPI.dll
+D:\tugas besar kpl\ver1\KPL-CoffeJava\hospitalManagenetSystemAPI\bin\Debug\net7.0\Library.dll
