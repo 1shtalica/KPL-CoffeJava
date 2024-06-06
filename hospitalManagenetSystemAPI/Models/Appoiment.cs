@@ -8,7 +8,7 @@ namespace hospitalManagenetSystemAPI.Models
         Scheduled,
         Completed,
         Canceled,
-        
+
     }
     public class Appoiment
     {
@@ -16,19 +16,21 @@ namespace hospitalManagenetSystemAPI.Models
         public int AppoimentId { get; set; }
         public TimeOnly TimeStart { get; set; }
         public TimeOnly TimeEnd { get; set; }
+        public DateOnly Date { get; set; }
         public AppointmentStatus Status { get; set; }
         public bool IsCompleted { get; set; }
         public int Sapacity { get; set; }
 
 
-       
+
         public Room Room { get; set; }
         public ICollection<Patient>? Patients { get; set; }
 
-   
+        public ICollection<MedicalCheckUp>? MedicalCheckUp { get; set; }
         public Doctor Doctor { get; set; }
 
 
-        
+
+
     }
 }

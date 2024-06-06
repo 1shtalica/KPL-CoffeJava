@@ -66,7 +66,7 @@ namespace hospitalManagenetSystemAPI.Controllers
 
         // POST api/<ValuesController>
         [HttpPost]
-        public IActionResult StoreAppoimentPatient([FromQuery] int appoiment, [FromQuery] int patient)
+        public IActionResult AppoimentPatient([FromQuery] int appoiment, [FromQuery] int patient)
         {
             try
             {
@@ -91,8 +91,14 @@ namespace hospitalManagenetSystemAPI.Controllers
                 _context.AppoimentPatients.Add(data);
                 _context.SaveChanges();
 
-                return CreatedAtAction(nameof(GetAppoimentPatient), new {id = data.AppoimentId}, data);
-            } catch (Exception ex) { 
+                return CreatedAtAction(nameof(GetAppoimentPatient), new { id = data.AppoimentId }, data);
+            }
+            catch (DbUpdateException ex)
+            {
+                return BadRequest(ex.InnerException?.Message ?? ex.Message);
+            }
+            catch (Exception ex)
+            {
                 return BadRequest(ex.Message);
             }
         }
