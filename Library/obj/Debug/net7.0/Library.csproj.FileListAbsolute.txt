@@ -52,3 +52,25 @@ E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\K
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
 E:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\Proggress#6\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.Development.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\Runtime\DashboardConfig.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\Runtime\Error.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.deps.json
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.dll
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.pdb
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.CopyComplete
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
+D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll

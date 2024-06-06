@@ -98,12 +98,13 @@ namespace hospitalManagenetSystemAPI.Controllers
                 Appoiment data = new Appoiment()
                 {
                     TimeStart = appoinmentRequest.TimeStart,
-                    TimeEnd =  appoinmentRequest.TimeEnd,
+                    TimeEnd = appoinmentRequest.TimeEnd,
                     IsCompleted = appoinmentRequest.IsComplete,
                     Sapacity = appoinmentRequest.Sapacity,
-
+                    Date = appoinmentRequest.date,
                     Room = room,
                     Doctor = doctor,
+                    Status = appoinmentRequest.Status
                 };
                 _context.Appoiments.Add(data);
                 _context.SaveChanges();
@@ -146,6 +147,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                 appointment.Sapacity = appointmentEdit.Sapacity;
                 appointment.Room = room;
                 appointment.Doctor = doctor;
+                appointment.Status = appointmentEdit.Status;
 
                 _context.Entry(appointment).State = EntityState.Modified;
                 _context.SaveChanges();

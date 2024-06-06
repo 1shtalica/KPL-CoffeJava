@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Library/1.0.0": {
         "dependencies": {
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "hospitalManagenetSystemAPI": "1.0.0"
         },
         "runtime": {
