@@ -1,0 +1,7 @@
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\bin\Debug\TableDrivenAdmin.exe.config
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\bin\Debug\TableDrivenAdmin.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\bin\Debug\TableDrivenAdmin.pdb
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\obj\Debug\TableDrivenAdmin.csproj.AssemblyReference.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\obj\Debug\TableDrivenAdmin.csproj.CoreCompileInputs.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\obj\Debug\TableDrivenAdmin.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\TableDrivenAdmin\obj\Debug\TableDrivenAdmin.pdb

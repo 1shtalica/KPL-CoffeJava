@@ -1,0 +1,7 @@
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\bin\Debug\Automata.exe.config
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\bin\Debug\Automata.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\bin\Debug\Automata.pdb
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\obj\Debug\Automata.exe
+C:\Users\rinda\OneDrive\Documents\Project\KPL\KPL-CoffeJava\Automata\obj\Debug\Automata.pdb

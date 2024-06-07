@@ -1,0 +1,742 @@
+[
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AdminController",
+    "Method": "AddAdmin",
+    "RelativePath": "api/Admin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.AdminDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AdminController",
+    "Method": "GetAdminById",
+    "RelativePath": "api/Admin/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AdminController",
+    "Method": "UpdateAdmin",
+    "RelativePath": "api/Admin/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "admin",
+        "Type": "hospitalManagenetSystemAPI.DTO.AdminUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AdminController",
+    "Method": "DeleteAdmin",
+    "RelativePath": "api/Admin/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AdminController",
+    "Method": "Login",
+    "RelativePath": "api/Admin/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "hospitalManagenetSystemAPI.DTO.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentController",
+    "Method": "GetAppoiment",
+    "RelativePath": "api/Appoiment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentController",
+    "Method": "AddAppoiment",
+    "RelativePath": "api/Appoiment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appoinmentRequest",
+        "Type": "hospitalManagenetSystemAPI.DTO.AppoinmentRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentController",
+    "Method": "GetAppoinmentById",
+    "RelativePath": "api/Appoiment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentController",
+    "Method": "EditAppointment",
+    "RelativePath": "api/Appoiment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appointmentEdit",
+        "Type": "hospitalManagenetSystemAPI.DTO.AppoinmentEdit",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctorID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentController",
+    "Method": "DeleteAppointment",
+    "RelativePath": "api/Appoiment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentPatienController",
+    "Method": "GetAppoimentPatient",
+    "RelativePath": "api/AppoimentPatien",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentPatienController",
+    "Method": "AppoimentPatient",
+    "RelativePath": "api/AppoimentPatien",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appoiment",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "patient",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentPatienController",
+    "Method": "GetAppoimentPatientById",
+    "RelativePath": "api/AppoimentPatien/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentPatienController",
+    "Method": "UpdateAppoimentPatient",
+    "RelativePath": "api/AppoimentPatien/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appoiment",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "patient",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.AppoimentPatienController",
+    "Method": "Delete",
+    "RelativePath": "api/AppoimentPatien/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.DoctorController",
+    "Method": "AddDoctor",
+    "RelativePath": "api/Doctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctorDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.DoctorDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "specializationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.DoctorController",
+    "Method": "GetDoctorById",
+    "RelativePath": "api/Doctor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.DoctorController",
+    "Method": "UpdateDoctor",
+    "RelativePath": "api/Doctor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctorUpdateDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.DoctorUpdateDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "specializationId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.DoctorController",
+    "Method": "DeleteDoctor",
+    "RelativePath": "api/Doctor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.DoctorController",
+    "Method": "Login",
+    "RelativePath": "api/Doctor/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "hospitalManagenetSystemAPI.DTO.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.MedicalCheckUpController",
+    "Method": "GetMedicalCheckUps",
+    "RelativePath": "api/MedicalCheckUp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.MedicalCheckUpController",
+    "Method": "PostMedicalCheckUp",
+    "RelativePath": "api/MedicalCheckUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appoimentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "medicalCheckUp",
+        "Type": "hospitalManagenetSystemAPI.DTO.MedicalCheckUpRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "patientID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "doctorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.MedicalCheckUpController",
+    "Method": "GetMedicalCheckUp",
+    "RelativePath": "api/MedicalCheckUp/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.MedicalCheckUpController",
+    "Method": "PutMedicalCheckUp",
+    "RelativePath": "api/MedicalCheckUp/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appoimentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "medicalCheckUp",
+        "Type": "hospitalManagenetSystemAPI.DTO.MedicalCheckUpEdit",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctorID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "patientID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.MedicalCheckUpController",
+    "Method": "DeleteMedicalCheckUp",
+    "RelativePath": "api/MedicalCheckUp/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagementSystemAPI.Controllers.PatientsController",
+    "Method": "AddPatient",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientDto",
+        "Type": "hospitalManagenetSystemAPI.NewFolder.PatientDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "gender",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "bloodtype",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagementSystemAPI.Controllers.PatientsController",
+    "Method": "GetPatientById",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagementSystemAPI.Controllers.PatientsController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "patientUpdateDto",
+        "Type": "hospitalManagementSystemAPI.Models.PatientUpdateDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "gender",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "bloodtype",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagementSystemAPI.Controllers.PatientsController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagementSystemAPI.Controllers.PatientsController",
+    "Method": "Login",
+    "RelativePath": "api/Patients/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "hospitalManagenetSystemAPI.DTO.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.RoomController",
+    "Method": "GetAllRooms",
+    "RelativePath": "api/Room",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.RoomController",
+    "Method": "AddRoom",
+    "RelativePath": "api/Room",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.RoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.RoomController",
+    "Method": "GetRoomById",
+    "RelativePath": "api/Room/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.RoomController",
+    "Method": "UpdateRoom",
+    "RelativePath": "api/Room/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "roomDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.RoomDtoUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.RoomController",
+    "Method": "DeleteRoom",
+    "RelativePath": "api/Room/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.SpecializationController",
+    "Method": "GetAllSpecializations",
+    "RelativePath": "api/Specialization",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.SpecializationController",
+    "Method": "AddSpecialization",
+    "RelativePath": "api/Specialization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "specializationDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.SpecializationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.SpecializationController",
+    "Method": "GetSpecialization",
+    "RelativePath": "api/Specialization/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.SpecializationController",
+    "Method": "UpdateSpecialization",
+    "RelativePath": "api/Specialization/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "specializationDto",
+        "Type": "hospitalManagenetSystemAPI.DTO.SpecializationDtoUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hospitalManagenetSystemAPI.Controllers.SpecializationController",
+    "Method": "DeleteSpecialization",
+    "RelativePath": "api/Specialization/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

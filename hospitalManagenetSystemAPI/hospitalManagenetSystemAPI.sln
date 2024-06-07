@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitTest", "..\unitTest\uni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuntimeDashboardTest", "..\RuntimeDashboardTest\RuntimeDashboardTest.csproj", "{346EC957-3886-4586-9455-CE618E4C9A08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationTest", "..\ValidationTest\ValidationTest.csproj", "{038E5EA4-7120-4E49-B58D-18F30C81E484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationTest", "..\ValidationTest\ValidationTest.csproj", "{038E5EA4-7120-4E49-B58D-18F30C81E484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalWindowsForm", "..\HospitalWindowsForm\HospitalWindowsForm.csproj", "{95000B0D-AAE9-4D9F-9C2C-84D372920160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableDrivenAdmin", "..\TableDrivenAdmin\TableDrivenAdmin.csproj", "{712A57EB-38B9-46EC-8963-2F83822F525F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automata", "..\Automata\Automata.csproj", "{46FDFF5F-D970-4249-A312-CD1C13365776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{038E5EA4-7120-4E49-B58D-18F30C81E484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038E5EA4-7120-4E49-B58D-18F30C81E484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038E5EA4-7120-4E49-B58D-18F30C81E484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95000B0D-AAE9-4D9F-9C2C-84D372920160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95000B0D-AAE9-4D9F-9C2C-84D372920160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95000B0D-AAE9-4D9F-9C2C-84D372920160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95000B0D-AAE9-4D9F-9C2C-84D372920160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712A57EB-38B9-46EC-8963-2F83822F525F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712A57EB-38B9-46EC-8963-2F83822F525F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712A57EB-38B9-46EC-8963-2F83822F525F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712A57EB-38B9-46EC-8963-2F83822F525F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FDFF5F-D970-4249-A312-CD1C13365776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FDFF5F-D970-4249-A312-CD1C13365776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FDFF5F-D970-4249-A312-CD1C13365776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FDFF5F-D970-4249-A312-CD1C13365776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
