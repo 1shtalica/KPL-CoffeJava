@@ -76,6 +76,9 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
+                    b.Property<DateOnly>("Date")
+                        .HasColumnType("date");
+
                     b.Property<int>("DoctorId")
                         .HasColumnType("int");
 
@@ -190,6 +193,9 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
+                    b.Property<int>("AppoimentId")
+                        .HasColumnType("int");
+
                     b.Property<int>("DoctorId")
                         .HasColumnType("int");
 
@@ -208,6 +214,8 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .HasColumnType("date");
 
                     b.HasKey("MedicalChekUpId");
+
+                    b.HasIndex("AppoimentId");
 
                     b.HasIndex("DoctorId");
 
@@ -371,6 +379,12 @@ namespace hospitalManagenetSystemAPI.Migrations
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.MedicalCheckUp", b =>
                 {
+                    b.HasOne("hospitalManagenetSystemAPI.Models.Appoiment", "Appoiment")
+                        .WithMany("MedicalCheckUp")
+                        .HasForeignKey("AppoimentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("hospitalManagenetSystemAPI.Models.Doctor", "Doctor")
                         .WithMany("MedicalCheckUps")
                         .HasForeignKey("DoctorId")
@@ -382,6 +396,8 @@ namespace hospitalManagenetSystemAPI.Migrations
                         .HasForeignKey("PatientId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Appoiment");
 
                     b.Navigation("Doctor");
 
@@ -406,6 +422,11 @@ namespace hospitalManagenetSystemAPI.Migrations
             modelBuilder.Entity("hospitalManagementSystemAPI.Models.Gender", b =>
                 {
                     b.Navigation("patients");
+                });
+
+            modelBuilder.Entity("hospitalManagenetSystemAPI.Models.Appoiment", b =>
+                {
+                    b.Navigation("MedicalCheckUp");
                 });
 
             modelBuilder.Entity("hospitalManagenetSystemAPI.Models.BloodType", b =>

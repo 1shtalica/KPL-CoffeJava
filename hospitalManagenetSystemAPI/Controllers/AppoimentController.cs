@@ -33,7 +33,8 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.IsCompleted,
                     a.Sapacity,
                     Room = a.Room.RoomNumber,
-                    Doctor = a.Doctor.firstName
+                    Doctor = a.Doctor.firstName,
+                    a.Date
                 }).ToList();
                 return Ok(data);
             } catch (Exception ex) { 
@@ -55,7 +56,8 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.IsCompleted,
                     a.Sapacity,
                     Room = a.Room.RoomNumber,
-                    Doctor = a.Doctor.firstName
+                    Doctor = a.Doctor.firstName,
+                    a.Date
                 }).FirstOrDefault();
                 if (data == null)
                 {

@@ -10,6 +10,7 @@
         "dependencies": {
           "Library": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "coverlet.collector": "6.0.0",
           "hospitalManagenetSystemAPI": "1.0.0",
           "xunit": "2.8.0",
@@ -532,6 +533,7 @@
       },
       "Library/1.0.0": {
         "dependencies": {
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "hospitalManagenetSystemAPI": "1.0.0"
         },
         "runtime": {

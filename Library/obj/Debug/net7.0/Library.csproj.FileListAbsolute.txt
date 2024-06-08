@@ -74,3 +74,26 @@ D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
 D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
 D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
 D:\tugas besar kpl\ver1\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.deps.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.runtimeconfig.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.Development.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\appsettings.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\Runtime\DashboardConfig.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\Runtime\Error.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.exe
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.deps.json
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.dll
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\Library.pdb
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.dll
+D:\Kuliah\KPL-CoffeJava\Library\bin\Debug\net7.0\hospitalManagenetSystemAPI.pdb
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.sourcelink.json
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.csproj.Up2Date
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.dll
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\refint\Library.dll
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\Library.pdb
+D:\Kuliah\KPL-CoffeJava\Library\obj\Debug\net7.0\ref\Library.dll

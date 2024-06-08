@@ -1,37 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\",
+  "WorkspaceRootPath": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{038E5EA4-7120-4E49-B58D-18F30C81E484}|..\\ValidationTest\\ValidationTest.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\validationtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\kuliah\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\appoimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\appoimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CA05029-AE84-47AB-A89B-3B267D0C5D73}|..\\RuntimeTest\\RuntimeTest.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\runtimetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\kuliah\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\appoimentpatiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\appoimentpatiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3B24AD-8744-4863-946C-6180FCB84A8B}|..\\unitTest\\unitTest.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\unittest\\testpasswordlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\kuliah\\kpl-coffejava\\hospitalmanagenetsystemapi\\migrations\\20240607204338_new migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240607204338_new migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\medicalcheckupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\medicalcheckupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EA3446-4506-4016-B0B3-DBD0E3034B53}|..\\Library\\Library.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\library\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\hospitalmanagenetsystemapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346EC957-3886-4586-9455-CE618E4C9A08}|..\\RuntimeDashboardTest\\RuntimeDashboardTest.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\runtimedashboardtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|e:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\proggress#6\\kpl-coffejava\\hospitalmanagenetsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240607204414_update migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:Migrations\\20240607204414_update migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,118 +33,106 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 219,
+          "DockedWidth": 131,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestPasswordLibrary.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\unitTest\\TestPasswordLibrary.cs",
-              "RelativeDocumentMoniker": "..\\unitTest\\TestPasswordLibrary.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\unitTest\\TestPasswordLibrary.cs",
-              "RelativeToolTip": "..\\unitTest\\TestPasswordLibrary.cs",
+              "DocumentIndex": 4,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:50:57.25Z"
+              "WhenOpened": "2024-05-16T03:29:17.076Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\ValidationTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\ValidationTest\\UnitTest1.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\ValidationTest\\UnitTest1.cs",
-              "RelativeToolTip": "..\\ValidationTest\\UnitTest1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwEUAAAAfAAAA",
+              "Title": "AppoimentController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppoimentController.cs",
+              "ToolTip": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentController.cs",
+              "RelativeToolTip": "Controllers\\AppoimentController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:37:29.945Z",
+              "WhenOpened": "2024-06-08T13:04:10.657Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "Controllers\\RoomController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:29:17.076Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\RuntimeTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\RuntimeTest\\UnitTest1.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\RuntimeTest\\UnitTest1.cs",
-              "RelativeToolTip": "..\\RuntimeTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Title": "AppoimentPatienController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentPatienController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppoimentPatienController.cs",
+              "ToolTip": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentPatienController.cs",
+              "RelativeToolTip": "Controllers\\AppoimentPatienController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:23:00.428Z",
+              "WhenOpened": "2024-06-08T12:00:34.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240607204414_update migrate.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240607204414_update migrate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240607204414_update migrate.cs",
+              "ToolTip": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240607204414_update migrate.cs",
+              "RelativeToolTip": "Migrations\\20240607204414_update migrate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:44:14.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240607204338_new migrate.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240607204338_new migrate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240607204338_new migrate.cs",
+              "ToolTip": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240607204338_new migrate.cs",
+              "RelativeToolTip": "Migrations\\20240607204338_new migrate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:43:38.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MedicalCheckUpController.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\MedicalCheckUpController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MedicalCheckUpController.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\MedicalCheckUpController.cs",
-              "RelativeToolTip": "Controllers\\MedicalCheckUpController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAYwGAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T22:22:11.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\RuntimeDashboardTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\RuntimeDashboardTest\\UnitTest1.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\RuntimeDashboardTest\\UnitTest1.cs",
-              "RelativeToolTip": "..\\RuntimeDashboardTest\\UnitTest1.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA3wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:57:01.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
+              "DocumentMoniker": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
+              "ToolTip": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T21:47:08.255Z"
-            },
+              "WhenOpened": "2024-06-07T20:43:23.58Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 450,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAywAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:54:53.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Validation.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Validation.cs",
-              "RelativeDocumentMoniker": "..\\Library\\Validation.cs",
-              "ToolTip": "E:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\Proggress#6\\KPL-CoffeJava\\Library\\Validation.cs",
-              "RelativeToolTip": "..\\Library\\Validation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:25:33.242Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

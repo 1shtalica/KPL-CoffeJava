@@ -49,7 +49,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                     Appoiment = p.Appoiment.TimeStart + " " + p.Appoiment.TimeEnd,
                     p.PatientId,
                     Patient = p.Patient.FirstName
-                }).FirstOrDefault();
+                }).ToList();
                 if(data == null)
                 {
                     return NotFound();
