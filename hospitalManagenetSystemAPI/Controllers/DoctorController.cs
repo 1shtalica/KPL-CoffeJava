@@ -101,6 +101,38 @@ namespace hospitalManagenetSystemAPI.Controllers
                 return StatusCode(500, $"An error occurred while fetching doctor details: {ex.Message}");
             }
         }
+        [HttpGet]
+        public IActionResult GetAllDoctors()
+        {
+            try
+            {
+                var doctors = _context.doctors
+                    .Include(d => d.Specialization)
+                    .Select(d => new
+                    {
+                        Id = d.DoctorId,
+                        FirstName = d.firstName,
+                        LastName = d.lastName,
+                        Specialization = d.Specialization != null ? d.Specialization.Name : "",
+                        Address = d.Address,
+                        BirthDate = d.BirthDate,
+                        PhoneNumber = d.PhoneNumber,
+                        Email = d.Email
+                    })
+                    .ToList();
+
+                if (doctors == null || doctors.Count == 0)
+                {
+                    return NotFound("No doctors found.");
+                }
+
+                return Ok(doctors);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"An error occurred while fetching doctors: {ex.Message}");
+            }
+        }
 
         [HttpPut("{id}")]
         public IActionResult UpdateDoctor(int id, [FromBody] DoctorUpdateDto doctorUpdateDto, [FromQuery] int? specializationId)
