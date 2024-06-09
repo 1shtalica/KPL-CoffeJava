@@ -32,7 +32,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.Status,
                     a.IsCompleted,
                     a.Sapacity,
-                    Room = a.Room.RoomNumber,
+                   Room = a.Room.RoomName,
                     Doctor = a.Doctor.firstName,
                     a.Date
                 }).ToList();
@@ -55,7 +55,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.Status,
                     a.IsCompleted,
                     a.Sapacity,
-                    Room = a.Room.RoomNumber,
+                   Room = a.Room.RoomName,
                     Doctor = a.Doctor.firstName,
                     a.Date
                 }).FirstOrDefault();
