@@ -49,6 +49,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                 string hashedPassword = HashPassword(doctorDto.Password, salt);
                 var doctor = new Doctor
                 {
+
                     firstName = doctorDto.firstName,
                     lastName = doctorDto.lastName,
                     Address = doctorDto.Address,
@@ -256,9 +257,10 @@ namespace hospitalManagenetSystemAPI.Controllers
                     
                     var doctorDto = new
                     {
+                        id = doctor.DoctorId, 
                         firstName = doctor.firstName,
                         lastName = doctor.lastName,
-                        specialization = doctor.Specialization,
+                        specialization = doctor.Specialization.Name,
                         Address = doctor.Address,
                         BirthDate = doctor.BirthDate,
                         PhoneNumber = doctor.PhoneNumber,

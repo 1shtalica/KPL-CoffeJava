@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7RqcZ9oCTI/MQS+wz731j6KWMhTKN/zlN0wzfT6gcNSX2AvnikF2iCoq7NOBZeTcecM/MqRtFYr/KQuVTGsFg==",
+  "dgSpecHash": "ZD75Z0wh9bU=",
   "success": true,
-  "projectFilePath": "D:\\kpl backend\\KPL-CoffeJava\\Library\\Library.csproj",
+  "projectFilePath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",

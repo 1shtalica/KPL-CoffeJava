@@ -277,6 +277,7 @@ namespace hospitalManagementSystemAPI.Controllers
 
                     var patientDto = new
                     {
+                        patientId = patient.PatientId,
                         firstName = patient.FirstName,
                         lastName = patient.LastName,
                        

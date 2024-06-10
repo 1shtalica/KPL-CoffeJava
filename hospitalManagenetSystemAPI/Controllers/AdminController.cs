@@ -203,6 +203,7 @@ namespace hospitalManagenetSystemAPI.Controllers
 
                     var adminDto = new
                     {
+                        AdminId = admin.AdminId,    
                         firstName = admin.FirstName,
                         lastName = admin.LastName,
 

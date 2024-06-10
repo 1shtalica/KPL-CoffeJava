@@ -32,9 +32,11 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.Status,
                     a.IsCompleted,
                     a.Sapacity,
-                   Room = a.Room.RoomName,
+                    Room = a.Room.RoomName,
                     Doctor = a.Doctor.firstName,
-                    a.Date
+                    a.Date,
+                    DoctorId = a.Doctor.DoctorId,
+                    Specialization = a.Doctor.Specialization.Name,
                 }).ToList();
                 return Ok(data);
             } catch (Exception ex) { 
@@ -57,7 +59,10 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.Sapacity,
                    Room = a.Room.RoomName,
                     Doctor = a.Doctor.firstName,
-                    a.Date
+                    a.Date,
+                    DoctorId = a.Doctor.DoctorId,
+                    Specialization = a.Doctor.Specialization.Name,
+
                 }).FirstOrDefault();
                 if (data == null)
                 {

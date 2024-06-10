@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Library
-build_property.ProjectDir = D:\kpl backend\KPL-CoffeJava\Library\
+build_property.ProjectDir = D:\tugas besar kpl\ver 4 front end\KPL-CoffeJava\Library\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
