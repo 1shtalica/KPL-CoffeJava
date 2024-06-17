@@ -33,7 +33,7 @@ namespace hospitalManagenetSystemAPI.Controllers
                     a.TimeStart,
                     a.TimeEnd,
                     Status = (a.Date<today || (a.Date == today && a.TimeEnd<now) ? AppointmentStatus.Completed : a.Status),
-                    a.IsCompleted,
+                    IsCompleted = (a.Date < today || (a.Date == today && a.TimeEnd < now) ? true : false),
                     a.Sapacity,
                     Room = a.Room.RoomName,
                     Doctor = a.Doctor.firstName,
