@@ -24,12 +24,15 @@ namespace hospitalManagenetSystemAPI.Controllers
         {
             try
             {
+                var today = DateOnly.FromDateTime(DateTime.Now);
+                var now = TimeOnly.FromDateTime(DateTime.Now);
+               
                 var data = _context.Appoiments.Select(a => new
                 {
                     a.AppoimentId,
                     a.TimeStart,
                     a.TimeEnd,
-                    a.Status,
+                    Status = (a.Date<today || (a.Date == today && a.TimeEnd<now) ? AppointmentStatus.Completed : a.Status),
                     a.IsCompleted,
                     a.Sapacity,
                     Room = a.Room.RoomName,

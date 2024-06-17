@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\appoimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\appoimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA3446-4506-4016-B0B3-DBD0E3034B53}|..\\Library\\Library.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\library\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\dto\\roomdtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:dto\\roomdtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\hospitalmanagenetsystemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:hospitalmanagenetsystemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\hospitalmanagenetsystemapi\\migrations\\20240610090734_asdasdasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90FCC6-229B-469E-B951-788944C7204B}|hospitalManagenetSystemAPI.csproj|solutionrelative:migrations\\20240610090734_asdasdasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA3446-4506-4016-B0B3-DBD0E3034B53}|..\\Library\\Library.csproj|d:\\tugas besar kpl\\ver 4 front end\\kpl-coffejava\\library\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 730,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppoimentController.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppoimentController.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AppoimentController.cs",
+              "RelativeToolTip": "Controllers\\AppoimentController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:13:10.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAArwPIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:29:28.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAArwCsBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:29:26.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAArwDwBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:29:25.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T09:11:46.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Password.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Password.cs",
+              "RelativeDocumentMoniker": "..\\Library\\Password.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Password.cs",
+              "RelativeToolTip": "..\\Library\\Password.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAjwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:06:00.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T09:11:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomDtoUpdate.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\RoomDtoUpdate.cs",
+              "RelativeDocumentMoniker": "DTO\\RoomDtoUpdate.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\RoomDtoUpdate.cs",
+              "RelativeToolTip": "DTO\\RoomDtoUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:11:12.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\RoomDto.cs",
+              "RelativeDocumentMoniker": "DTO\\RoomDto.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\DTO\\RoomDto.cs",
+              "RelativeToolTip": "DTO\\RoomDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:10:57.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T09:06:28.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Validation.cs",
+              "RelativeDocumentMoniker": "..\\Library\\Validation.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Validation.cs",
+              "RelativeToolTip": "..\\Library\\Validation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:06:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "hospitalManagenetSystemAPI",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+              "RelativeDocumentMoniker": "hospitalManagenetSystemAPI.csproj",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+              "RelativeToolTip": "hospitalManagenetSystemAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T09:05:03.308Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 450,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240610090734_asdasdasd.cs",
+              "DocumentMoniker": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240610090734_asdasdasd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610090734_asdasdasd.cs",
+              "ToolTip": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\Migrations\\20240610090734_asdasdasd.cs",
+              "RelativeToolTip": "Migrations\\20240610090734_asdasdasd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:07:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
