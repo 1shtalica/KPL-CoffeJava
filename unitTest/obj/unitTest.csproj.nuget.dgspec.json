@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\unitTest\\unitTest.csproj": {}
+    "D:\\Kuliah\\KPL-CoffeJava\\unitTest\\unitTest.csproj": {}
   },
   "projects": {
-    "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj": {
+    "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+        "projectUniqueName": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
         "projectName": "hospitalManagenetSystemAPI",
-        "projectPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\",
+        "projectPath": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,25 +96,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Library.csproj": {
+    "D:\\Kuliah\\KPL-CoffeJava\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Library.csproj",
+        "projectUniqueName": "D:\\Kuliah\\KPL-CoffeJava\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\obj\\",
+        "projectPath": "D:\\Kuliah\\KPL-CoffeJava\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Kuliah\\KPL-CoffeJava\\Library\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -133,8 +125,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj": {
-                "projectPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj"
+              "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj": {
+                "projectPath": "D:\\Kuliah\\KPL-CoffeJava\\hospitalManagenetSystemAPI\\hospitalManagenetSystemAPI.csproj"
               }
             }
           }
@@ -175,25 +167,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\unitTest\\unitTest.csproj": {
+    "D:\\Kuliah\\KPL-CoffeJava\\unitTest\\unitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\unitTest\\unitTest.csproj",
+        "projectUniqueName": "D:\\Kuliah\\KPL-CoffeJava\\unitTest\\unitTest.csproj",
         "projectName": "unitTest",
-        "projectPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\unitTest\\unitTest.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\unitTest\\obj\\",
+        "projectPath": "D:\\Kuliah\\KPL-CoffeJava\\unitTest\\unitTest.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Kuliah\\KPL-CoffeJava\\unitTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -208,8 +196,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Library.csproj": {
-                "projectPath": "D:\\tugas besar kpl\\ver 4 front end\\KPL-CoffeJava\\Library\\Library.csproj"
+              "D:\\Kuliah\\KPL-CoffeJava\\Library\\Library.csproj": {
+                "projectPath": "D:\\Kuliah\\KPL-CoffeJava\\Library\\Library.csproj"
               }
             }
           }
@@ -270,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

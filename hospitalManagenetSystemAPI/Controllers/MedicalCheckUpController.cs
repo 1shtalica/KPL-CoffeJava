@@ -32,7 +32,8 @@ namespace hospitalManagenetSystemAPI.Controllers
                              m.Result,
                              Doctor = m.Doctor.firstName,
                              Patient = m.Patient.FirstName,
-                             ApoimentId = m.Appoiment.AppoimentId
+                             ApoimentId = m.Appoiment.AppoimentId,
+                             m.Patient.PatientId,
 
                          })
                          .ToList();
